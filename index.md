@@ -1,9 +1,9 @@
 ---
 layout: default
-meta-description: "Seminar series on the frontier of machine learning and systems. Livestreamed every Thursday, 1:30-2:30 pm PT."
+meta-description: "Seminar Series and Reading Group at Oxford"
 ---
 
-# Stanford MLSys Seminar Series
+# Statistics and Machine Learning in Finance
 
 **News**:
 * We are now available in podcast form on [Apple Podcasts](https://podcasts.apple.com/us/podcast/stanford-mlsys-seminar/id1603927994), [Spotify](https://open.spotify.com/show/3NazVHl6ujGuHCjGlN0SCf), and [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83YmRkMzMxNC9wb2RjYXN0L3Jzcw)!
@@ -80,15 +80,7 @@ Check out our introductory video:
 
 # About The Seminar
 
-**Seminar Hosts:** Dan Fu, Karan Goel, Fiodar Kazhamakia, Piero Molino.
+**Organizers:** Mihai Cucuringu 
 
-**Executive Producers:** Matei Zaharia, Chris Ré.
+You can reach us at mihai [dot] cucuringu [at] stats [dot] ox [dot] ac [dot] uk.
 
-You can reach us at sysmlstanfordseminar [at] gmail.
-
-Source code for this website can be found [here](https://github.com/stanford-sysml-seminar/stanford-sysml-seminar.github.io).
-
-<!-- Please uncomment this part if you clone our source code! -->
-<!--
-Website template from the [Stanford MLSys Seminar Series](https://mlsys.stanford.edu).
--->
