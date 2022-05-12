@@ -18,10 +18,8 @@ Topics range from network analysis to portfolio selection to high-dimensional st
   <div class="talk-presenter">{{ talk.speaker }}</div>
   {% if talk.title %}
   <div>
-    {% if talk.recording %}
-      <span><a class="talk-title-link" href="{{ talk.recording }}">{{ talk.title }} <i class="bi bi-box-arrow-up-right"></i></a></span>
-    {% elsif talk.livestream %}
-      <span><a class="talk-title-link" href="{{ talk.livestream }}">{{ talk.title }} <i class="bi bi-box-arrow-up-right"></i></a></span>
+    {% if talk.link %}
+      <span><a class="talk-title-link" href="{{ talk.link }}">{{ talk.title }} <i class="bi bi-box-arrow-up-right"></i></a></span>
     {% else %}
       <span>{{ talk.title }}</span>
     {% endif %}
@@ -34,15 +32,12 @@ Topics range from network analysis to portfolio selection to high-dimensional st
     
     {% if talk.bio %}
     <br><br>
-    <strong>Bio: </strong> {{ talk.bio }}
+    <strong>Biography: </strong> {{ talk.bio }}
     {% endif %}
 
     {% if talk.recording %}
       <br><br>
-      <strong><a href="{{ talk.recording }}">Video Link</a></strong>
-    {% elsif talk.livestream %}
-      <br><br>
-      <strong><a href="{{ talk.livestream }}">Livestream Link</a></strong>
+      <strong><a href="{{ talk.recording}}">Recording</a></strong>
     {% endif %}
     </details>
   {% endif %}
