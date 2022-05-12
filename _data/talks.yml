@@ -1,24 +1,88 @@
 - type: Future Talks
   members:
-    - speaker: Alkis Polyzotis
-      date: 5/12/22
-      title: "What can Data-Centric AI Learn from Data and ML Engineering?"
-      abstract: 'Data-centric AI is a new and exciting research topic in the AI community, but many organizations already build and maintain various "data-centric" applications whose goal is to produce high quality data. These range from traditional business data processing applications (e.g., "how much should we charge each of our customers this month?") to production ML systems such as recommendation engines. The fields of data and ML engineering have arisen in recent years to manage these applications, and both include many interesting novel tools and processes. In this talk we present lessons from data and ML engineering that could be interesting to apply in data-centric AI, based on our experience developing data and ML platforms that serve thousands of applications at a range of organizations. In particular, we will discuss lessons related to data monitoring and the challenges to apply it effectively in production ML systems.'
-      bio: "Neoklis (Alkis) Polyzotis is a software engineer at Databricks, working on the intersection of data management and ML. Prior to that, he was a research scientist at Google and a professor at UC Santa Cruz. He received his PhD from the U of Wisconsin at Madison."
-    - speaker: Roman Kazinnik
-      date: 5/19/22
-      title: "Machine Learning in Production: Review of Empirical Solutions"
-      abstract: "Taking stock of ML Infra problems"
-      bio: "Roman Kazinnik is working at Meta on the AI Platform team. He is an experienced computer programmer passionate about empirical and theoretical work. He worked on creating models for deep Earth oil exploration and stock trading throughout his career. He is a recipient of the best paper award of the European Assoc. of Computer Graphics, and he did his Master's at Technion and Ph.D. at Tel Aviv University, Israel. "
-    - speaker: Hima Lakkaraju
-      date: 5/26/22
+    - speaker: Anish Agarwal  
+      date: May 16, 2022
+      title: "Causal Inference for Social and Engineering Systems"
+      abstract: "What will happen to Y if we do A? A variety of meaningful social and engineering questions can be formulated this way: What will happen to a patient’s health if they are given a new therapy? What will happen to a country’s economy if policy-makers legislate a new tax? What will happen to a data center’s latency if a new congestion control protocol is used? We explore how to answer such counterfactual questions using observational data---which is increasingly available due to digitization and pervasive sensors---and/or very limited experimental data. The two key challenges are: (i) counterfactual prediction in the presence of latent confounders; (ii) estimation with modern datasets which are high-dimensional, noisy, and sparse. The key framework we introduce is connecting causal inference with tensor completion. In particular, we represent the various potential outcomes (i.e., counterfactuals) of interest through an order-3 tensor. The key theoretical results presented are: (i) Formal identification results establishing under what missingness patterns, latent confounding, and structure on the tensor is recovery of unobserved potential outcomes possible. (ii) Introducing novel estimators to recover these unobserved potential outcomes and proving they are finite-sample consistent and asymptotically normal. The efficacy of our framework is shown on high-impact applications. These include working with: (i) TaurRx Therapeutics to identify patient sub-populations where their therapy was effective. (ii) Uber Technologies on evaluating the impact of driver engagement policies without running an A/B test. (iii) The Poverty Action Lab at MIT to make personalized policy recommendations to improve childhood immunization rates across villages in Haryana, India. Finally, we discuss connections between causal inference, tensor completion, and offline reinforcement learning."
+      bio: "Anish is currently a postdoctoral fellow at the Simons Institute at UC Berkeley. He did his PhD at MIT in EECS where he was advised by Alberto Abadie, Munther Dahleh, and Devavrat Shah. His research focuses on designing and analyzing methods for causal machine learning, and applying it to critical problems in social and engineering systems. He currently serves as a technical consultant to TauRx Therapeutics and Uber Technologies on questions related to experiment design and causal inference. Prior to the PhD, he was a management consultant at Boston Consulting Group. He received his BSc and MSc at Caltech."
+      link: https://arxiv.org/abs/2109.15154
+      recording: https://www.youtube.com/watch?v=MK5EXE7MkEk
+    - speaker: Vincent Tan
+      date: May 23, 2022
+      title: "Canonical Portfolios: Optimal Asset and Signal Combination"
+      link: https://arxiv.org/abs/2202.10817
+    - speaker: Lisa Goldberg 
+      date: May 30, 2022 
+    - speaker: Chris Musco 
+      date: June 6, 2022
+      title: "Structured Covariance Estimation"
+      abstract: "How many samples are needed to accurately learn the covariance matrix, C, of a distribution over d-dimensional vectors? In modern data applications where d is large, the answer is often unacceptably high: the sample complexity of covariance learning inherently depends poorly on dimension. In this talk I will discuss efforts to address this issue by designing data collection methods and learning algorithms which reduce complexity by leveraging a priori knowledge about the covariance matrix. Specifically, I will discuss the setting when C is known to have Toeplitz structure. Toeplitz covariance matrices arise in many applications, from time series analysis, to wireless communications, to medical imaging. In many of these applications, data collection is expensive, so reducing sample complexity is an important goal. We will start by taking a fresh look at classical and widely used algorithms, including methods based on selecting samples according to a "sparse ruler". Then, I will introduce a novel sampling and estimation strategy that improves on existing methods in many settings. Our new approach for learning Toeplitz structured covariance utilizes tools from random matrix sketching, non-linear approximation theory, and sparse Fourier transform algorithms. It fits into a broader line of work which seeks to address problems in active learning using tools from theoretical computer science and randomized numerical linear algebra."
+      bio: "Chris Musco is an Assistant Professor at New York University in the Tandon School of Engineering"
+    - speaker: Andreas Lehrmann
+      date: May 30, 2022
+    - speaker: Yichi Zhang
+      date: June 20, 2022
+    - speaker: Petter Kolm 
+      date: October 10, 2022
+    - speaker: Chao Gao
+      date: October 17, 2022
 
 - type: Past Talks
   members:
-    - speaker: Albert Gu
-      date: 11/11/21
-      title: "Efficiently Modeling Long Sequences with Structured State Spaces"
-      abstract: "A central goal of sequence modeling is designing a single principled model that can address sequence data across a range of modalities and tasks, particularly on long-range dependencies.  Although conventional models including RNNs, CNNs, and Transformers have specialized variants for capturing long dependencies, they still struggle to scale to very long sequences of 10000 or more steps.  We introduce a simple sequence model based on the fundamental state space representation $x'(t) = Ax(t) + Bu(t), y(t) = Cx(t) + Du(t)$ and show that it combines the strengths of several model families.  Furthermore, we show that the HiPPO theory of continuous-time memorization can be incorporated into the state matrix $A$, producing a class of structured models that handles long-range dependencies mathematically and can be computed very efficiently.  The Structured State Space (S3) model achieves strong empirical results across a diverse range of established benchmarks, including (i) 91% accuracy on sequential CIFAR-10 with no data augmentation or auxiliary losses, on par with a larger 2-D ResNet, (ii) substantially closing the gap to Transformers on image and language modeling tasks, while performing generation 60X faster, (iii) SotA on every task from the Long Range Arena benchmark, including solving the challenging Path-X task of length 16k that all prior work fails on, while being as efficient as all competitors."
-      bio: "Albert Gu is a PhD student in the Stanford CS department, advised by Chris Ré. His research interests include algorithms for structured linear algebra and theoretical principles of deep sequence models."
-      recording: https://www.youtube.com/watch?v=EvQ3ncuriCM
-    
+    - speaker: Lorenzo Lucchese 
+      date: May 9, 2022
+      title: "Deep Limit Order Books"
+    - speaker: Alvaro Arroyo
+      date: May 2, 2022
+      title: "Estimation Theory with Spectral Methods"
+    - speaker: Qiong Wu
+      date: April 11, 2022
+      title: "Embedding Algorithms for Cross-Asset Equity Models"
+    - speaker: Parley Ruogu Yang
+      date: March 28, 2022
+      title: "Adaptive Learning on Time Series: Methods and Financial Applications"
+    - speaker: Christopher Policastro
+      date: May 14, 2022
+      title: "Singular Spectrum Analysis"
+    - speaker:  Nicolas Cassia Terrazo, Qi Jin, Alexey Kapustin, Zhi Qi
+      date: March 7, 2022
+      title: "Co-jumping Behaviour in Time-Series and Financial Networks"
+    - speaker: Adrien Hardy 
+      date: February 28, 2022
+      title: "Learning Factors Data Challenge"
+    - speaker: Alik Sokolov
+      date: February 21, 2022
+      title: "ESG Case Studies"
+    - speaker: Jianian Wang 
+      date: February 14, 2022
+      title: "A Review on Graph Neural Network Methods in Financial Applications"
+    - speaker: Mihai Cucuringu
+      date: February 7, 2022
+      title: "Introduction to the Mechanics of Limit Order Books"
+    - speaker: Milena Vuletic 
+      date: January 24, 2022
+      title: "Financial Time-Series Forecasting via GANs"
+    - speaker:  Vincent Tan 
+      date: January 17, 2022
+      title: "Large covariance estimation, portfolio selection"
+    - speaker:  Deborah Miori
+      date: January 10, 2022
+      title: " Fund2Vec: Mutual Funds Similarity using Graph Learning"
+    - speaker: Yutong Lu 
+      date: January 3, 2022
+      title: "Network Effects in Financial High-Frequency Data"
+    - speaker: Christopher Policastro
+      date: December 20, 2022
+      title: "Synopsis of MLECON Workshop"
+    - speaker: Stefanos Bennett 
+      date: December 13, 2022
+      title: "Lead-lag detection and network clustering for multivariate time series with an application to the US equity market"
+    - speaker: Nikolas Michael 
+      date: December 6, 2022
+      title: "Option Volume Imbalance as a predictor for spot market returns"
+    - speaker: Felix Prenzel
+      date: November 29, 2022
+      title: "Analysis and Modelling of Client Order Flow in Limit Order Markets"
+    - speaker:  Chao Zhang  
+      date: November 22, 2022
+      title: "Limit Order Books, Order Flow Imbalances, Price Impact, Lead-Lag Effects"
