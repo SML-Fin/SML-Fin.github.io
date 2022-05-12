@@ -5,12 +5,12 @@
       title: "Causal Inference for Social and Engineering Systems"
       abstract: "What will happen to Y if we do A? A variety of meaningful social and engineering questions can be formulated this way: What will happen to a patient’s health if they are given a new therapy? What will happen to a country’s economy if policy-makers legislate a new tax? What will happen to a data center’s latency if a new congestion control protocol is used? We explore how to answer such counterfactual questions using observational data---which is increasingly available due to digitization and pervasive sensors---and/or very limited experimental data. The two key challenges are: (i) counterfactual prediction in the presence of latent confounders; (ii) estimation with modern datasets which are high-dimensional, noisy, and sparse. The key framework we introduce is connecting causal inference with tensor completion. In particular, we represent the various potential outcomes (i.e., counterfactuals) of interest through an order-3 tensor. The key theoretical results presented are: (i) Formal identification results establishing under what missingness patterns, latent confounding, and structure on the tensor is recovery of unobserved potential outcomes possible. (ii) Introducing novel estimators to recover these unobserved potential outcomes and proving they are finite-sample consistent and asymptotically normal. The efficacy of our framework is shown on high-impact applications. These include working with: (i) TaurRx Therapeutics to identify patient sub-populations where their therapy was effective. (ii) Uber Technologies on evaluating the impact of driver engagement policies without running an A/B test. (iii) The Poverty Action Lab at MIT to make personalized policy recommendations to improve childhood immunization rates across villages in Haryana, India. Finally, we discuss connections between causal inference, tensor completion, and offline reinforcement learning."
       bio: "Anish is currently a postdoctoral fellow at the Simons Institute at UC Berkeley. He did his PhD at MIT in EECS where he was advised by Alberto Abadie, Munther Dahleh, and Devavrat Shah. His research focuses on designing and analyzing methods for causal machine learning, and applying it to critical problems in social and engineering systems. He currently serves as a technical consultant to TauRx Therapeutics and Uber Technologies on questions related to experiment design and causal inference. Prior to the PhD, he was a management consultant at Boston Consulting Group. He received his BSc and MSc at Caltech."
-      recording: https://arxiv.org/abs/2109.15154
-      livestream: https://www.youtube.com/watch?v=MK5EXE7MkEk
+      link: https://arxiv.org/abs/2109.15154
+      recording: https://www.youtube.com/watch?v=MK5EXE7MkEk
     - speaker: Vincent Tan
       date: May 23, 2022
       title: "Canonical Portfolios: Optimal Asset and Signal Combination"
-      recording: https://arxiv.org/abs/2202.10817 
+      link: https://arxiv.org/abs/2202.10817 
     - speaker: Lisa Goldberg 
       date: May 30, 2022 
     - speaker: Chris Musco 
