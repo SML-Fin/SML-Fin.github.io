@@ -1,6 +1,6 @@
 ---
 layout: default
-meta-description: "Seminar Series and Reading Group at Oxford"
+meta-description: "Seminar Series and Reading Group"
 ---
 
 # Seminar Series and Reading Group
