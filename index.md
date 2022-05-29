@@ -5,9 +5,13 @@ meta-description: "Seminar Series and Reading Group"
 
 # Seminar Series and Reading Group
 
-Participants can join the [email list](https://groups.google.com/forum/#!forum/stanford-mlsys-seminars/join) to receive notifcations. Events have a hybrid format where participants at the [Statistics Department](https://www.stats.ox.ac.uk/) connect to Zoom. 
+Participants can join our [email list](https://groups.google.com) to receive notifcations about the seminar and reading group. 
 
-Topics range from network analysis to portfolio selection to high-dimensional statistics and synthetic data generation. Please explore [projects](https://www.stats.ox.ac.uk/~cucuring/fin.htm) from the research group. 
+Organizers plan events in a hybrid format allowing participants on-site at the [Oxford Statistics Department](https://www.stats.ox.ac.uk/) to connect with participants off-site through Zoom. 
+
+The seminar and reading group covers a wide range of topics at the intersection of machine learning and finance. Topics range from network analysis to portfolio selection to high-dimensional statistics and synthetic data generation. 
+
+Please explore [projects](https://www.stats.ox.ac.uk/~cucuring/fin.htm) from our research group. 
 
 {% for category in site.data.talks %}
 # {{ category.type }}
@@ -52,4 +56,4 @@ Topics range from network analysis to portfolio selection to high-dimensional st
 
 **Organizers:** [Mihai Cucuringu](https://www.stats.ox.ac.uk/~cucuring/) 
 
-Website template from the [Stanford MLSys Seminar Series](https://mlsys.stanford.edu)
+**Acknowledgements:**  Website template from the [Stanford MLSys Seminar Series](https://mlsys.stanford.edu)

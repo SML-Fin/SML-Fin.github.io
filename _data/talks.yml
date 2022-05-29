@@ -13,6 +13,10 @@
       link: https://arxiv.org/abs/2202.10817 
     - speaker: Lisa Goldberg 
       date: May 30, 2022 
+      title:  James Stein for Eigenvectors
+      abstract: "Estimated covariance matrices are widely used to construct portfolios with variance-minimizing optimization, yet the embedded sampling error produces portfolios with systematically underestimated variance. This effect is especially severe when the number of securities greatly exceeds the number of observations. In this high dimension low sample size (HL) regime, we show that a dispersion bias in the leading eigenvector of the estimated covariance matrix is a material source of distortion in the minimum variance portfolio. We correct the bias with the data-driven GPS (Global Positioning System) shrinkage estimator, which improves with the size of the market, and which is structurally identical to the James Stein estimator for a collection of averages. We illustrate the power of the GPS estimator with a numerical example, and conclude with open problems that have emerged from our research."
+      bio: Lisa Goldberg is Professor of the Practice of Economics at University of California Berkeley. She is the co-director of the Berkeley Consortium for Data Analytics in Risk. She is Head of Research at Aperio Group, now part of BlackRock. 
+      link: https://cdar.berkeley.edu/sites/default/files/publications/the_dispersion_bias_1.2022.pdf 
     - speaker: Chris Musco 
       date: June 6, 2022
       title: "Structured Covariance Estimation"
