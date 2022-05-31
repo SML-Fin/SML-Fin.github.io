@@ -3,13 +3,13 @@ layout: default
 meta-description: "Seminar Series and Reading Group"
 ---
 
-# Seminar Series and Reading Group
+# Seminar Series 
 
-Participants can join our [email list](https://groups.google.com) to receive notifcations about the seminar and reading group. 
+Participants can join our [email list](https://groups.google.com) to receive notifcations about the seminar series. 
 
 Organizers plan events in a hybrid format allowing participants on-site at the [Oxford Statistics Department](https://www.stats.ox.ac.uk/) to connect with participants off-site through Zoom. 
 
-The seminar and reading group covers a wide range of topics at the intersection of machine learning and finance. Topics range from network analysis to portfolio selection to high-dimensional statistics and synthetic data generation. 
+The seminar series covers a wide range of topics at the intersection of machine learning and finance. Topics range from network analysis to portfolio selection to high-dimensional statistics and synthetic data generation. 
 
 Please explore [projects](https://www.stats.ox.ac.uk/~cucuring/fin.htm) from our research group. 
 
