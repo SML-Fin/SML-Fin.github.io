@@ -1,13 +1,5 @@
 - type: Future Talks
   members:
-    - speaker: Andreas Lehrmann
-      date: May 30, 2022
-      title: "Continuous-time Modelling of Irregular Time-Series"
-      abstract: "Globally, capital markets have gone through a paradigm shift towards complete automation through artificial intelligence, turning it into a highly competitive area at the intersection of statistical models from various branches of machine learning. A principled understanding of the interactions between statistical models that operate in a common environment will soon be a key success factor for leaders in the field. In this talk I will first discuss the unique challenges of capital markets through the lens of machine learning and then provide an overview how Borealis AI addresses them from an atomistic and a holistic point of view. In the second part of the talk I will focus on our recent work on continuous-time modeling of irregular time-series and describe an expressive differential deformation of the Wiener process using neural ordinary differential equations. Finally, we will see how an augmentation of this model with a latent process driven by a stochastic differential equation can further increase the flexibility of this system and allows us to capture non-Markovian dynamics."
-      bio: "Andreas Lehrmann is a machine learning researcher at Borealis AI. Previously, he held postdoctoral positions at Facebook Reality Labs and Disney Research. He received his Ph.D. at ETH Zurich and the Max-Planck-Institute for Intelligent Systems under a Microsoft Research scholarship."    
-      link: https://proceedings.neurips.cc/paper/2021/file/2983e3047c0c730d3b7c022584717f3f-Paper.pdf
-    - speaker: Yichi Zhang
-      date: June 20, 2022
     - speaker: Petter Kolm 
       date: October 10, 2022
     - speaker: Chao Gao
@@ -21,6 +13,12 @@
 
 - type: Past Talks
   members:
+    - speaker: Andreas Lehrmann
+      date: May 30, 2022
+      title: "Continuous-time Modelling of Irregular Time-Series"
+      abstract: "Globally, capital markets have gone through a paradigm shift towards complete automation through artificial intelligence, turning it into a highly competitive area at the intersection of statistical models from various branches of machine learning. A principled understanding of the interactions between statistical models that operate in a common environment will soon be a key success factor for leaders in the field. In this talk I will first discuss the unique challenges of capital markets through the lens of machine learning and then provide an overview how Borealis AI addresses them from an atomistic and a holistic point of view. In the second part of the talk I will focus on our recent work on continuous-time modeling of irregular time-series and describe an expressive differential deformation of the Wiener process using neural ordinary differential equations. Finally, we will see how an augmentation of this model with a latent process driven by a stochastic differential equation can further increase the flexibility of this system and allows us to capture non-Markovian dynamics."
+      bio: "Andreas Lehrmann is a machine learning researcher at Borealis AI. Previously, he held postdoctoral positions at Facebook Reality Labs and Disney Research. He received his Ph.D. at ETH Zurich and the Max-Planck-Institute for Intelligent Systems under a Microsoft Research scholarship."    
+      link: https://proceedings.neurips.cc/paper/2021/file/2983e3047c0c730d3b7c022584717f3f-Paper.pdf
     - speaker: Lisa Goldberg 
       date: May 30, 2022 
       title:  James Stein for Eigenvectors
