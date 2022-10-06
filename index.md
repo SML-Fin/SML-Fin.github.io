@@ -5,7 +5,7 @@ meta-description: "Seminar Series and Reading Group"
 
 # Seminar Series 
 
-Participants can join our <a href=mailto:smlfin-subscribe@maillist.ox.ac.uk>mailing list</a> to receive notifcations about the seminar series. 
+Participants can join our [mailing list](mailto:smlfin-subscribe@maillist.ox.ac.uk?subject=Subscribe) to receive notifcations about the seminar series. 
 
 Organizers plan events in a hybrid format allowing participants on-site at the [Oxford Statistics Department](https://www.stats.ox.ac.uk/) to connect with participants off-site through Zoom. 
 
