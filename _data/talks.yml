@@ -8,6 +8,10 @@
       link: https://arxiv.org/pdf/1911.01018.pdf
     - speaker: Ye Zhang 
       date: October 24, 2022
+      title: Sharp Theoretical Analysis of Spectral Methods in Clustering and Synchronization
+      abstract: Spectral methods are simple but powerful approaches for extracting information from noisy data and have been widely used in various applications. In this talk, we demystify the success of spectral methods by establishing sharp theoretical guarantees for their performance in clustering and synchronization. (1) The first part of the talk is about a novel singular subspace perturbation analysis for spectral clustering. We consider two arbitrary matrices where one is a leave-one-column-out submatrix of the other one and establish a new perturbation upper bound for the distance between their corresponding singular subspaces. Powered by this tool, we obtain an explicit exponential error rate for the performance of spectral clustering in sub-Gaussian mixture models. (2) The second part of the talk is about the exact minimax optimality of a spectral method in the phase synchronization problem with additive Gaussian noises and incomplete data. We prove that it achieves the minimax lower bound of the problem with a matching leading constant under a squared l2 loss. This shows that the spectral method has the same performance as more sophisticated procedures including maximum likelihood estimation, generalized power method, and semidefinite programming, when consistent parameter estimation is possible.
+      link: https://arxiv.org/abs/2205.14855 
+      bio: Anderson Ye Zhang is an assistant professor in the Department of Statistics and Data Science at the University of Pennsylvania. Before joining Penn, he was a William H. Kruskal Instructor in Department of Statistics at the University of Chicago. He completed his Ph.D. in Statistics and Data Science at Yale University. His research includes spectral analysis, network analysis, clustering, ranking, and synchronization. 
     - speaker: Yuxin Chen  
       date: November 7, 2022
       title: Inference and Uncertainty Quantification for Nonconvex Low-Rank Models
