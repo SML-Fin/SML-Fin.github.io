@@ -54,6 +54,6 @@ Please explore [projects](https://www.stats.ox.ac.uk/~cucuring/fin.htm) from our
 
 # About The Seminar
 
-**Organizers:** [Mihai Cucuringu](https://www.stats.ox.ac.uk/~cucuring/) 
+**Organizers:** [Mihai Cucuringu](https://www.stats.ox.ac.uk/~cucuring/), Christopher Policastro
 
 **Acknowledgements:**  Website template from the [Stanford MLSys Seminar Series](https://mlsys.stanford.edu)
