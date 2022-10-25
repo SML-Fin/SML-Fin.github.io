@@ -1,17 +1,22 @@
 - type: Future Talks
   members:
     - speaker: Chao Gao
-      date: October 17, 2022
+      date: October 17, 2022 (University of Chicago)
       title: Iterative Algorithm for Discrete Structure Recovery
       abstract: We propose a general modeling and algorithmic framework for discrete structure recovery that can be applied to a wide range of problems. Under this framework, we are able to study the recovery of clustering labels, ranks of players, signs of regression coefficients, cyclic shifts, and even group elements from a unified perspective. A simple iterative algorithm is proposed for discrete structure recovery, which generalizes methods including Lloyd's algorithm and the power method. A linear convergence result for the proposed algorithm is established in this paper under appropriate abstract conditions on stochastic errors and initialization. We illustrate our general theory by applying it on several representative problems, (1) clustering in Gaussian mixture model, (2) approximate ranking, (3) sign recovery in compressed sensing, (4) multireference alignment, and (5) group synchronization, and show that minimax rate is achieved in each case.
       bio: Chao Gao is an Assistant Professor in Statistics at University of Chicago
       link: https://arxiv.org/pdf/1911.01018.pdf
-    - speaker: Ye Zhang 
+    - speaker: Ye Zhang (University of Pennsylvania)
       date: October 24, 2022
       title: Sharp Theoretical Analysis of Spectral Methods in Clustering and Synchronization
       abstract: Spectral methods are simple but powerful approaches for extracting information from noisy data and have been widely used in various applications. In this talk, we demystify the success of spectral methods by establishing sharp theoretical guarantees for their performance in clustering and synchronization. (1) The first part of the talk is about a novel singular subspace perturbation analysis for spectral clustering. We consider two arbitrary matrices where one is a leave-one-column-out submatrix of the other one and establish a new perturbation upper bound for the distance between their corresponding singular subspaces. Powered by this tool, we obtain an explicit exponential error rate for the performance of spectral clustering in sub-Gaussian mixture models. (2) The second part of the talk is about the exact minimax optimality of a spectral method in the phase synchronization problem with additive Gaussian noises and incomplete data. We prove that it achieves the minimax lower bound of the problem with a matching leading constant under a squared l2 loss. This shows that the spectral method has the same performance as more sophisticated procedures including maximum likelihood estimation, generalized power method, and semidefinite programming, when consistent parameter estimation is possible.
       link: https://arxiv.org/abs/2205.14855 
       bio: Anderson Ye Zhang is an assistant professor in the Department of Statistics and Data Science at the University of Pennsylvania. Before joining Penn, he was a William H. Kruskal Instructor in Department of Statistics at the University of Chicago. He completed his Ph.D. in Statistics and Data Science at Yale University. His research includes spectral analysis, network analysis, clustering, ranking, and synchronization. 
+    - speaker: Chao Zhang (University of Oxford)
+      date: October 31, 2022
+      title:  Volatility forecasting with machine learning and intraday commonality & Forecasting Realized Covariances via Graphs
+      abstract: (Volatility forecasting) We apply machine learning models to forecast intraday realized volatility (RV), by exploiting commonality in intraday volatility via pooling stock data together, and by incorporating a proxy for the market volatility. Neural networks dominate linear regressions and tree models in terms of performance, due to their ability to uncover and model complex latent interactions among variables. Our findings remain robust when we apply trained models to new stocks that have not been included in the training set, thus providing new empirical evidence for a universal volatility mechanism among stocks. Finally, we propose a new approach to forecasting one-day-ahead RVs using past intraday RVs as predictors, and highlight interesting diurnal effects that aid the forecasting mechanism. The results demonstrate that the proposed methodology yields superior out-of-sample forecasts over a strong set of traditional baselines that only rely on past daily RVs.
+      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4022147
     - speaker: Yuxin Chen  
       date: November 7, 2022
       title: Inference and Uncertainty Quantification for Nonconvex Low-Rank Models
