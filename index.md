@@ -4,6 +4,7 @@ meta-description: "Seminar Series and Reading Group"
 ---
 
 # Seminar Series 
+Mondays 2-3pm (GMT) (unless otherwise specified)
 
 Participants can join our [mailing list](mailto:smlfin-subscribe@maillist.ox.ac.uk?subject=Subscribe) to receive notifcations about the seminar series. 
 
