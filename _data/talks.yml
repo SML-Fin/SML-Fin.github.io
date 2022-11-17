@@ -54,6 +54,7 @@
     - speaker: Cédric Poutré (University of Montreal)
       date: February 13, 2023
       title: The Profitability of Lead-Lag Arbitrage at High-Frequency
+      abstract: Any lead-lag effect in an asset pair implies the future returns on the lagging asset have the potential to be predicted from past and present prices of the leader, thus creating statistical arbitrage opportunities. We utilize robust lead-lag indicators to uncover the origin of price discovery and we propose an econometric model exploiting that effect with level 1 data of limit order books (LOB). We also develop a high-frequency trading strategy based on the model predictions to capture arbitrage opportunities. The framework is then evaluated on six months of DAX 30 cross-listed stocks' LOB data obtained from three European exchanges in 2013: Xetra, Chi-X, and BATS. We show that a high-frequency trader can profit from lead-lag relationships because of predictability, even when trading costs, latency, and execution-related risks are considered. Keywords - Lead-lag relationship, High-frequency trading, Statistical arbitrage, Limit order book, Cross-listed stocks, Econometric models.
       link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4223813
     - speaker: Melanie Schienle  (Karlsruhe Institute of Technology KIT)
       date: February 20, 2023
