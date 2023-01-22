@@ -57,6 +57,10 @@
       date: January 23, 2022
       title: Attention Based Dynamic Graph Neural Network for Asset Pricing
       abstract: Recent studies suggest that networks among firms (sectors) play an essential role in asset pricing. However, it is challenging to capture and investigate the implications of networks due to the continuous evolution of networks in response to market micro and macro changes. This paper combines two state-of-the-art machine learning techniques to develop an end-to-end graph neural network model and shows its applicability in asset pricing. First, we apply the graph attention mechanism to learn dynamic network structures of the equity market over time and then use a recurrent convolutional neural network to diffuse and propagate firms fundamental information into the learned networks. Our model is efficient in both return prediction and portfolio performance. The result persists in different sensitivity tests and simulated data. We also show that the dynamic network learned from our model is able to capture major market events over time.
+    - speaker: Lin William Cong (Cornell University)
+      date: February 6, 2023
+      title: Panel Trees for Asset Pricing
+      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463      
     - speaker: Cédric Poutré (University of Montreal)
       date: February 13, 2023
       title: The Profitability of Lead-Lag Arbitrage at High-Frequency
