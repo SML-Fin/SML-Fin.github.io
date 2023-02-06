@@ -1,6 +1,31 @@
 - type: Talks (2022-2023)
   members:
-    - speaker: Chao Gao (University of Chicago)
+     - speaker: Lin William Cong (Cornell University)
+      date: February 6, 2023
+      title: Panel Trees for Asset Pricing
+      abstract: In Cong, Feng, He, and He (2022), we develop a new class of tree-based models (P-Tree) for analyzing (unbalanced) panel data utilizing global (instead of local) split criteria that incorporate economic guidance to guard against overfitting while preserving interpretability. We grow a P-Tree top-down to split the cross section of asset returns to construct stochastic discount factors and test assets, generalizing sequential security sorting and visualizing (asymmetric) nonlinear interactions among firm characteristics and macroeconomic states. Data-driven P-Tree models reveal that idiosyncratic volatility and earnings-to-price ratio interact to drive cross-sectional return variations in U.S. equities; market volatility and inflation constitute the most critical regime-switching that asymmetrically interacts with characteristics. P-Trees outperform most known observable and latent factor models in pricing individual stocks and test portfolios, while delivering transparent trading strategies and risk-adjusted investment outcomes (e.g., out-of-sample annualized Sharp ratios of about 3 and monthly alpha around 0.8%). Time-permitting, I will briefly discuss Cong, Feng, He, and Li (2022) --- a further development of the panel tree framework for jointly clustering asset returns and modeling heterogeneous factor pricing under a Bayesian framework.
+      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463      
+    - speaker: Cédric Poutré (University of Montreal)
+      date: February 13, 2023
+      title: The Profitability of Lead-Lag Arbitrage at High-Frequency
+      abstract: Any lead-lag effect in an asset pair implies the future returns on the lagging asset have the potential to be predicted from past and present prices of the leader, thus creating statistical arbitrage opportunities. We utilize robust lead-lag indicators to uncover the origin of price discovery and we propose an econometric model exploiting that effect with level 1 data of limit order books (LOB). We also develop a high-frequency trading strategy based on the model predictions to capture arbitrage opportunities. The framework is then evaluated on six months of DAX 30 cross-listed stocks' LOB data obtained from three European exchanges in 2013 -- Xetra, Chi-X, and BATS. We show that a high-frequency trader can profit from lead-lag relationships because of predictability, even when trading costs, latency, and execution-related risks are considered. Keywords - Lead-lag relationship, High-frequency trading, Statistical arbitrage, Limit order book, Cross-listed stocks, Econometric models.
+      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4223813
+    - speaker: Melanie Schienle  (Karlsruhe Institute of Technology KIT)
+      date: February 20, 2023
+    - speaker: Agostino Capponi (Columbia University) 
+      date: February 27, 2023
+    - speaker: Petter Kolm (NYU) 
+      date: February, 2023  
+    - speaker: Stephen Szaura (Norwegian Business School)
+      date: April 28 (Friday), 2023
+      title: Does News, Order Flow, or Illiquidity drive stock jumps? In the day or in the night?
+      abstract: The overnight material news events and sources of stock illiquidity can be potentially important sources of jumps in stock returns. We find that for the average firm in the cross-section, stock illiquidity is more likely to drive a stock return jump than either day or overnight news flow frequency and content, however, for larger firms there is a higher likelihood that the stock return jump is driven by overnight news flow frequency. Yet our results find a larger idiosyncratic jump size for a higher number of day news articles than stock illiquidity for the average and large firms. Our results show how day and overnight news flow, stock illiquidity, and order flow are reflected in stock return jumps and idiosyncratic jump risk.
+
+      
+
+- type: Past Talks
+  members:
+  - speaker: Chao Gao (University of Chicago)
       date: October 17, 2022 
       title: Iterative Algorithm for Discrete Structure Recovery
       abstract: We propose a general modeling and algorithmic framework for discrete structure recovery that can be applied to a wide range of problems. Under this framework, we are able to study the recovery of clustering labels, ranks of players, signs of regression coefficients, cyclic shifts, and even group elements from a unified perspective. A simple iterative algorithm is proposed for discrete structure recovery, which generalizes methods including Lloyd's algorithm and the power method. A linear convergence result for the proposed algorithm is established in this paper under appropriate abstract conditions on stochastic errors and initialization. We illustrate our general theory by applying it on several representative problems, (1) clustering in Gaussian mixture model, (2) approximate ranking, (3) sign recovery in compressed sensing, (4) multireference alignment, and (5) group synchronization, and show that minimax rate is achieved in each case.
@@ -57,31 +82,6 @@
       date: January 23, 2022
       title: Attention Based Dynamic Graph Neural Network for Asset Pricing
       abstract: Recent studies suggest that networks among firms (sectors) play an essential role in asset pricing. However, it is challenging to capture and investigate the implications of networks due to the continuous evolution of networks in response to market micro and macro changes. This paper combines two state-of-the-art machine learning techniques to develop an end-to-end graph neural network model and shows its applicability in asset pricing. First, we apply the graph attention mechanism to learn dynamic network structures of the equity market over time and then use a recurrent convolutional neural network to diffuse and propagate firms fundamental information into the learned networks. Our model is efficient in both return prediction and portfolio performance. The result persists in different sensitivity tests and simulated data. We also show that the dynamic network learned from our model is able to capture major market events over time.
-    - speaker: Lin William Cong (Cornell University)
-      date: February 6, 2023
-      title: Panel Trees for Asset Pricing
-      abstract: In Cong, Feng, He, and He (2022), we develop a new class of tree-based models (P-Tree) for analyzing (unbalanced) panel data utilizing global (instead of local) split criteria that incorporate economic guidance to guard against overfitting while preserving interpretability. We grow a P-Tree top-down to split the cross section of asset returns to construct stochastic discount factors and test assets, generalizing sequential security sorting and visualizing (asymmetric) nonlinear interactions among firm characteristics and macroeconomic states. Data-driven P-Tree models reveal that idiosyncratic volatility and earnings-to-price ratio interact to drive cross-sectional return variations in U.S. equities; market volatility and inflation constitute the most critical regime-switching that asymmetrically interacts with characteristics. P-Trees outperform most known observable and latent factor models in pricing individual stocks and test portfolios, while delivering transparent trading strategies and risk-adjusted investment outcomes (e.g., out-of-sample annualized Sharp ratios of about 3 and monthly alpha around 0.8%). Time-permitting, I will briefly discuss Cong, Feng, He, and Li (2022) --- a further development of the panel tree framework for jointly clustering asset returns and modeling heterogeneous factor pricing under a Bayesian framework.
-      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463      
-    - speaker: Cédric Poutré (University of Montreal)
-      date: February 13, 2023
-      title: The Profitability of Lead-Lag Arbitrage at High-Frequency
-      abstract: Any lead-lag effect in an asset pair implies the future returns on the lagging asset have the potential to be predicted from past and present prices of the leader, thus creating statistical arbitrage opportunities. We utilize robust lead-lag indicators to uncover the origin of price discovery and we propose an econometric model exploiting that effect with level 1 data of limit order books (LOB). We also develop a high-frequency trading strategy based on the model predictions to capture arbitrage opportunities. The framework is then evaluated on six months of DAX 30 cross-listed stocks' LOB data obtained from three European exchanges in 2013 -- Xetra, Chi-X, and BATS. We show that a high-frequency trader can profit from lead-lag relationships because of predictability, even when trading costs, latency, and execution-related risks are considered. Keywords - Lead-lag relationship, High-frequency trading, Statistical arbitrage, Limit order book, Cross-listed stocks, Econometric models.
-      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4223813
-    - speaker: Melanie Schienle  (Karlsruhe Institute of Technology KIT)
-      date: February 20, 2023
-    - speaker: Agostino Capponi (Columbia University) 
-      date: February 27, 2023
-    - speaker: Petter Kolm (NYU) 
-      date: February, 2023  
-    - speaker: Stephen Szaura (Norwegian Business School)
-      date: April 28 (Friday), 2023
-      title: Does News, Order Flow, or Illiquidity drive stock jumps? In the day or in the night?
-      abstract: The overnight material news events and sources of stock illiquidity can be potentially important sources of jumps in stock returns. We find that for the average firm in the cross-section, stock illiquidity is more likely to drive a stock return jump than either day or overnight news flow frequency and content, however, for larger firms there is a higher likelihood that the stock return jump is driven by overnight news flow frequency. Yet our results find a larger idiosyncratic jump size for a higher number of day news articles than stock illiquidity for the average and large firms. Our results show how day and overnight news flow, stock illiquidity, and order flow are reflected in stock return jumps and idiosyncratic jump risk.
-
-      
-
-- type: Past Talks
-  members:
     - speaker: Andreas Lehrmann
       date: June 13, 2022
       title: "Continuous-time Modelling of Irregular Time-Series"
