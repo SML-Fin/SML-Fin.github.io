@@ -1,6 +1,6 @@
 - type: Talks (2022-2023)
   members:
-     - speaker: Lin William Cong (Cornell University)
+    - speaker: Lin William Cong (Cornell University)
       date: February 6, 2023
       title: Panel Trees for Asset Pricing
       abstract: In Cong, Feng, He, and He (2022), we develop a new class of tree-based models (P-Tree) for analyzing (unbalanced) panel data utilizing global (instead of local) split criteria that incorporate economic guidance to guard against overfitting while preserving interpretability. We grow a P-Tree top-down to split the cross section of asset returns to construct stochastic discount factors and test assets, generalizing sequential security sorting and visualizing (asymmetric) nonlinear interactions among firm characteristics and macroeconomic states. Data-driven P-Tree models reveal that idiosyncratic volatility and earnings-to-price ratio interact to drive cross-sectional return variations in U.S. equities; market volatility and inflation constitute the most critical regime-switching that asymmetrically interacts with characteristics. P-Trees outperform most known observable and latent factor models in pricing individual stocks and test portfolios, while delivering transparent trading strategies and risk-adjusted investment outcomes (e.g., out-of-sample annualized Sharp ratios of about 3 and monthly alpha around 0.8%). Time-permitting, I will briefly discuss Cong, Feng, He, and Li (2022) --- a further development of the panel tree framework for jointly clustering asset returns and modeling heterogeneous factor pricing under a Bayesian framework.
@@ -25,7 +25,7 @@
 
 - type: Past Talks
   members:
-  - speaker: Chao Gao (University of Chicago)
+    - speaker: Chao Gao (University of Chicago)
       date: October 17, 2022 
       title: Iterative Algorithm for Discrete Structure Recovery
       abstract: We propose a general modeling and algorithmic framework for discrete structure recovery that can be applied to a wide range of problems. Under this framework, we are able to study the recovery of clustering labels, ranks of players, signs of regression coefficients, cyclic shifts, and even group elements from a unified perspective. A simple iterative algorithm is proposed for discrete structure recovery, which generalizes methods including Lloyd's algorithm and the power method. A linear convergence result for the proposed algorithm is established in this paper under appropriate abstract conditions on stochastic errors and initialization. We illustrate our general theory by applying it on several representative problems, (1) clustering in Gaussian mixture model, (2) approximate ranking, (3) sign recovery in compressed sensing, (4) multireference alignment, and (5) group synchronization, and show that minimax rate is achieved in each case.
