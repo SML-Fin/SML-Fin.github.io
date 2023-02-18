@@ -12,6 +12,8 @@
       link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4223813
     - speaker: Melanie Schienle  (Karlsruhe Institute of Technology KIT)
       date: February 20, 2023
+      abstract: This paper proposes a method for model determination in ultra-high dimensional cointegrated systems where the cross-section dimension $m$ can even largely exceed the sample size $T$. For such ultra-high dimensional cases, we require an adequate non-standard pre-screening step which we develop for the nonstationary cointegration vector but also for the stationary loading matrix. We prove that identified sets for the non-zero loadings and the cointegration space contain the respective true sets with high probability. A feasible algorithm is provided, making the technique easily accessible for practitioners. In a second step, we employ reduced rank regression based on the pre-selected set of variables, and show the cointegration rank selection consistency of the overall procedure. In order to achieve consistent rank selection, we propose a tailored information criterion which is also of general interest for factor models when both strong and weak factors are present. Results of the simulation study demonstrate competitive performance of the proposed methodology. In an empirical study with 1045 NASDAQ stocks, the proposed methodology allows for large-scale multivariate predictive regression for the entire system. 
+      title: Consistent model determination of ultra-high dimensional nonstationary time series 
     - speaker: Agostino Capponi (Columbia University) 
       date: February 27, 2023
     - speaker: Petter Kolm (NYU) 
