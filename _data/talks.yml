@@ -16,11 +16,9 @@
       title: Consistent model determination of ultra-high dimensional nonstationary time series 
     - speaker: Agostino Capponi (Columbia University) 
       date: February 27, 2023
-    - speaker:  Petar Veličković  (DeepMind) 
-      date: March 7, 2023
-      abstract: Neural networks that are able to reliably execute algorithmic computation may hold transformative potential to both machine learning and theoretical computer science. On one hand, they could enable the kind of extrapolative generalisation scarcely seen with deep learning models. On another, they may allow for running classical algorithms on inputs previously considered inaccessible to them.
-Over the past few years, the pace of development in this area has gradually become intense. As someone who has been very active in its latest incarnation, I have witnessed these concepts grow from isolated 'toy experiments', through NeurIPS spotlights, all the way to helping detect patterns in complicated mathematical objects (published on the cover of Nature) and supporting the development of generalist reasoning agents.
-In this talk, I will give my personal account of this journey, and especially how our own interpretation of this methodology, and understanding of its potential, changed with time. It should be of interest to a general audience interested in graphs, (classical) algorithms, reasoning, and building intelligent systems.
+    - speaker: Petar Veličković  (DeepMind) (in-person)
+      date: (Tuesday 4pm) March 7, 2023
+      abstract: Neural networks that are able to reliably execute algorithmic computation may hold transformative potential to both machine learning and theoretical computer science. On one hand, they could enable the kind of extrapolative generalisation scarcely seen with deep learning models. On another, they may allow for running classical algorithms on inputs previously considered inaccessible to them. Over the past few years, the pace of development in this area has gradually become intense. As someone who has been very active in its latest incarnation, I have witnessed these concepts grow from isolated toy experiments, through NeurIPS spotlights, all the way to helping detect patterns in complicated mathematical objects (published on the cover of Nature) and supporting the development of generalist reasoning agents. In this talk, I will give my personal account of this journey, and especially how our own interpretation of this methodology, and understanding of its potential, changed with time. It should be of interest to a general audience interested in graphs, (classical) algorithms, reasoning, and building intelligent systems. 
     - speaker: Dragos Gorduza (Oxford) 
       date: March, 13 2023  
       title: Understanding stock market instability via graph auto-encoders
