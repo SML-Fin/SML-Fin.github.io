@@ -23,15 +23,18 @@
       title: Reasoning Algorithmically - from Toy Experiments to AGI Modules 
       abstract: Neural networks that are able to reliably execute algorithmic computation may hold transformative potential to both machine learning and theoretical computer science. On one hand, they could enable the kind of extrapolative generalisation scarcely seen with deep learning models. On another, they may allow for running classical algorithms on inputs previously considered inaccessible to them. Over the past few years, the pace of development in this area has gradually become intense. As someone who has been very active in its latest incarnation, I have witnessed these concepts grow from isolated toy experiments, through NeurIPS spotlights, all the way to helping detect patterns in complicated mathematical objects (published on the cover of Nature) and supporting the development of generalist reasoning agents. In this talk, I will give my personal account of this journey, and especially how our own interpretation of this methodology, and understanding of its potential, changed with time. It should be of interest to a general audience interested in graphs, (classical) algorithms, reasoning, and building intelligent systems. 
     - speaker: Dragos Gorduza (University of Oxford)  
-      date: March, 13 2023  
+      date: March 13, 2023  
       title: Understanding stock market instability via graph auto-encoders
+    - speaker: Ruixun Zhang (Peking University)
+      date: April 17, 2023
+      title: Spectral Volume Models\: High-Frequency Periodicities in Intraday Trading Activities
+      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4230610
     - speaker: Stephen Szaura (Norwegian Business School)
       date: April 28 (Friday), 2023
       title: Does News, Order Flow, or Illiquidity drive stock jumps? In the day or in the night?
       abstract: The overnight material news events and sources of stock illiquidity can be potentially important sources of jumps in stock returns. We find that for the average firm in the cross-section, stock illiquidity is more likely to drive a stock return jump than either day or overnight news flow frequency and content, however, for larger firms there is a higher likelihood that the stock return jump is driven by overnight news flow frequency. Yet our results find a larger idiosyncratic jump size for a higher number of day news articles than stock illiquidity for the average and large firms. Our results show how day and overnight news flow, stock illiquidity, and order flow are reflected in stock return jumps and idiosyncratic jump risk.
     - speaker: Petter Kolm (NYU) 
       date: TBD
-
       
 
 - type: Past Talks
