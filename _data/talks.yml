@@ -39,6 +39,15 @@
       abstract: The overnight material news events and sources of stock illiquidity can be potentially important sources of jumps in stock returns. We find that for the average firm in the cross-section, stock illiquidity is more likely to drive a stock return jump than either day or overnight news flow frequency and content, however, for larger firms there is a higher likelihood that the stock return jump is driven by overnight news flow frequency. Yet our results find a larger idiosyncratic jump size for a higher number of day news articles than stock illiquidity for the average and large firms. Our results show how day and overnight news flow, stock illiquidity, and order flow are reflected in stock return jumps and idiosyncratic jump risk.
     - speaker: Petter Kolm (NYU) 
       date: TBD
+    - speaker: Stefano Grassi (University of Rome Tor Vergata)  
+      date: TBD
+    - speaker: Edward Elson Kosasih (University of Cambridge)
+      date: TBD
+      title: A machine learning approach for predicting hidden links in supply chain with graph neural networks
+    - speaker: Kangying Zhou (Yale University)
+      date: TBD
+      title: The virtue of complexity in return prediction
+      abstract: The extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters exceeds the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning.  
     - speaker:  TBD
       date: May 1, 2023 
     - speaker:  TBD
