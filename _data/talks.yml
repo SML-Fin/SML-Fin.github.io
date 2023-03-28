@@ -31,7 +31,7 @@
       link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4230610
     - speaker:  Shixuan Wang (University of Reading) (in-person)
       date: April 24, 2023
-      title: Time series momentum and reversal &#58; Intraday information from realized semivariance
+      title: Time series momentum and reversal&#58; Intraday information from realized semivariance
       abstract: The presence of time series momentum has been widely documented in financial markets across asset classes and countries. In this study, we find a predictable pattern of the realized semivariance estimators for the returns of commodity futures, particularly during the reversals of time series momentum. Based on this finding, we propose a rule-based time series momentum strategy that has a statistically significant higher Sharpe ratio compared to the benchmark of the original time series momentum strategy in the out-of-sample data. The results are robust to different subsamples, lookback windows, volatility scaling, execution lag, and transaction cost.
     - speaker: Stephen Szaura (Norwegian Business School)
       date: April 28 (Friday), 2023
