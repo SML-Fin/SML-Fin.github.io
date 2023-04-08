@@ -37,8 +37,6 @@
       date: April 28 (Friday), 2023
       title: Does News, Order Flow, or Illiquidity drive stock jumps? In the day or in the night?
       abstract: The overnight material news events and sources of stock illiquidity can be potentially important sources of jumps in stock returns. We find that for the average firm in the cross-section, stock illiquidity is more likely to drive a stock return jump than either day or overnight news flow frequency and content, however, for larger firms there is a higher likelihood that the stock return jump is driven by overnight news flow frequency. Yet our results find a larger idiosyncratic jump size for a higher number of day news articles than stock illiquidity for the average and large firms. Our results show how day and overnight news flow, stock illiquidity, and order flow are reflected in stock return jumps and idiosyncratic jump risk.
-    - speaker: Stefano Grassi (University of Rome Tor Vergata)  
-      date: TBD
     - speaker: Edward Elson Kosasih (University of Cambridge)
       date: May 8, 2023
       title: A machine learning approach for predicting hidden links in supply chain with graph neural networks
@@ -51,8 +49,10 @@
       date: May 1, 2023 
     - speaker:  TBD
       date: May 8, 2023    
-    - speaker:  TBD
+    - speaker:  Kaizheng Wang (Columbia University)
       date: May 15, 2023    
+      title: Variable Clustering via Distributionally Robust Nodewise Regression
+      abstract: We study a multi-factor block model for variable clustering and connect it to the regularized subspace clustering by formulating a distributionally robust version of the nodewise regression. To solve the latter problem, we derive a convex relaxation, provide guidance on selecting the size of the robust region, and hence the regularization weighting parameter, based on the data, and propose an ADMM algorithm for implementation. We validate our method in an extensive simulation study. Finally, we propose and apply a variant of our method to stock return data, obtain interpretable clusters that facilitate portfolio selection and compare its out-of-sample performance with other clustering methods in an empirical study. This talk is based on joint work with Xunyu Zhou and Xiao Xu.
     - speaker:  Stefano Grassi (University of Rome Tor Vergata)
       date: May 22, 2023          
     - speaker:  TBD
