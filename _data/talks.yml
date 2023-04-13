@@ -43,6 +43,7 @@
       date: March 13, 2023  
       title: Understanding stock market instability via graph auto-encoders
       link: https://arxiv.org/abs/2212.04974
+      abstract: Understanding stock market instability is a key question in financial management as practitioners seek to forecast breakdowns in asset comovements which expose portfolios to rapid and devastating collapses in value. The structure of these comovements can be described as a graph where companies are represented by nodes and edges capture correlations between their price movements. Learning a timely indicator of comovement breakdowns (manifested as modifications in the graph structure) is central in understanding both financial stability and volatility forecasting. We propose to use the edge reconstruction accuracy of a graph autoencoder (GAE) as an indicator for how spatially homogeneous connections between assets are, which, based on financial network literature, we use as a proxy to infer market volatility. Our experiments on the S&P 500 over the 20152022 period show that higher GAE reconstruction error values are correlated with higher volatility. We also show that outofsample autoregressive modeling of volatility is improved by the addition of the proposed measure. Our paper contributes to the literature of machine learning in finance particularly in the context of understanding stock market instability.
     - speaker: Petar Veličković  (DeepMind) (in-person)
       date: (Tuesday 4pm) March 7, 2023
       title: Reasoning Algorithmically - from Toy Experiments to AGI Modules 
