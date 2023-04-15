@@ -29,6 +29,7 @@
     - speaker:  Stefano Grassi (University of Rome Tor Vergata)
       date: May 22, 2023          
     - speaker:  Junting Duan (Stanford)
+      title: Target PCA&#58; Transfer Learning Large Dimensional Panel Data
       date: May 29, 2023
     - speaker:  Theis I. Jensen (Copenhagen Business School)
       date: June 5, 2023
@@ -37,7 +38,7 @@
     - speaker:  TBD
       date: June 19, 2023
        
-- type: Past Talks
+- type: Past Talks&#58;
   members:
     - speaker: Dragos Gorduza (University of Oxford)  
       date: March 13, 2023  
