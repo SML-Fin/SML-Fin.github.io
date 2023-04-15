@@ -2,7 +2,7 @@
   members:
     - speaker: Ruixun Zhang (Peking University) (online)
       date: April 17, 2023
-      title: Spectral Volume Models- High-Frequency Periodicities in Intraday Trading Activities
+      title: Spectral Volume Models&#58; High-Frequency Periodicities in Intraday Trading Activities
       abstract: We develop spectral volume models to systematically estimate, explain, and exploit the high-frequency periodicity in intraday trading activities using Fourier analysis. The framework consistently recovers periodicities at specific frequencies in three steps, despite their low signal-to-noise ratios. This reveals important and universal high-frequency periodicities across 2,573 stocks in the United States (US) and Chinese markets over a full year. The dominant frequencies are at 10-seconds, 15-seconds, 20-seconds, 30-seconds, 1-minute, and 5-minutes for the US market and 1-minute, 2.5-minutes, 5-minutes, and 10-minutes for the Chinese market. They each explain from 1.5 to 10 percent of the variance of de-trended intraday volumes on average. Through three different perspectives, we provide statistically significant evidence that this phenomenon is driven by trading algorithms that rely on periodic information arrivals, rather than trading cost considerations. Finally, we demonstrate the practical value of uncovering these high-frequency periodicities in improving intraday volume predictions, which leads to potential economic gains in intraday execution strategies.
       link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4230610
     - speaker:  Shixuan Wang (University of Reading) (in-person)
