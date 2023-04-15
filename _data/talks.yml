@@ -18,10 +18,6 @@
       date: May 8, 2023
       title: A machine learning approach for predicting hidden links in supply chain with graph neural networks
       abstract: Supply chain business interruption has been identified as a key risk factor in recent years, with high-impact disruptions due to disease outbreaks, logistic issues such as the recent Suez Canal blockage showing examples of how disruptions could propagate across complex emergent networks. Researchers have highlighted the importance of gaining visibility into procurement interdependencies between suppliers to develop more informed business contingency plans. However, extant methods such as supplier surveys rely on the willingness or ability of suppliers to share data and are not easily verifiable. In this article, we pose the supply chain visibility problem as a link prediction problem from the field of Machine Learning (ML) and propose the use of an automated method to detect potential links that are unknown to the buyer with Graph Neural Networks (GNN). Using a real automotive network as a test case, we show that our method performs better than existing algorithms. Additionally, we use Integrated Gradient to improve the explainability of our approach by highlighting input features that influence GNN’s decisions. We also discuss the advantages and limitations of using GNN for link prediction, outlining future research directions.
-    - speaker: Kangying Zhou (Yale University)
-      date: TBD
-      title: The virtue of complexity in return prediction
-      abstract: The extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters exceeds the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning.
     - speaker:  Kaizheng Wang (Columbia University)
       date: May 15, 2023    
       title: Variable Clustering via Distributionally Robust Nodewise Regression
@@ -33,8 +29,10 @@
       date: May 29, 2023
     - speaker:  Theis I. Jensen (Copenhagen Business School)
       date: June 5, 2023
-    - speaker:  TBD
+    - speaker: Kangying Zhou (Yale University)
       date: June 12, 2023
+      title: The virtue of complexity in return prediction
+      abstract: The extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters exceeds the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning.
     - speaker:  TBD
       date: June 19, 2023
        
