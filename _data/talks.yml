@@ -32,8 +32,6 @@
       date: June 12, 2023
       title: The virtue of complexity in return prediction
       abstract: The extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters exceeds the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning.
-    - speaker:  TBD
-      date: June 19, 2023
        
 - type: Past Talks&#58;
   members:
