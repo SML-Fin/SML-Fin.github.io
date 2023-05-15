@@ -22,9 +22,12 @@
       title: Variable Clustering via Distributionally Robust Nodewise Regression
       abstract: We study a multi-factor block model for variable clustering and connect it to the regularized subspace clustering by formulating a distributionally robust version of the nodewise regression. To solve the latter problem, we derive a convex relaxation, provide guidance on selecting the size of the robust region, and hence the regularization weighting parameter, based on the data, and propose an ADMM algorithm for implementation. We validate our method in an extensive simulation study. Finally, we propose and apply a variant of our method to stock return data, obtain interpretable clusters that facilitate portfolio selection and compare its out-of-sample performance with other clustering methods in an empirical study. This talk is based on joint work with Xunyu Zhou and Xiao Xu.
     - speaker:  Stefano Grassi (University of Rome Tor Vergata)
-      date: May 22, 2023          
+      date: May 22, 2023
+      title: Modelling and Predicting Strategies for Crypto--Currencies
+      abstract: In this presentation we summarize different modelling and and predictive strategies for cryptocurrency. We begin with univariate models that features time-varying moments  up to the fourth. Then we extend the forecasting to multivariate model using time-varying Vector Autoregressive models. Finally, we introduce a new study that combines multivariate models and time-varying higher moments in portfolio allocation.
     - speaker:  Junting Duan (Stanford)
       title: Target PCA&#58; Transfer Learning Large Dimensional Panel Data
+      abstract:  This paper develops a novel method to estimate a latent factor model for a large target panel with missing observations by optimally using the information from auxiliary panel data sets. We refer to our estimator as target-PCA. Transfer learning from auxiliary panel data allows us to deal with a large fraction of missing observations and weak signals in the target panel. We show that our estimator is more efficient and can consistently estimate weak factors, which are not identifiable with conventional methods. We provide the asymptotic inferential theory for target-PCA under very general assumptions on the approximate factor model and missing patterns. In an empirical study of imputing data in a mixed-frequency macroeconomic panel, we demonstrate that target-PCA significantly outperforms all benchmark methods.
       date: May 29, 2023
     - speaker:  Theis I. Jensen (Copenhagen Business School)
       date: June 5, 2023
