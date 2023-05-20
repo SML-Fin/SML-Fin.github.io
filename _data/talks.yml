@@ -30,7 +30,9 @@
       abstract:  This paper develops a novel method to estimate a latent factor model for a large target panel with missing observations by optimally using the information from auxiliary panel data sets. We refer to our estimator as target-PCA. Transfer learning from auxiliary panel data allows us to deal with a large fraction of missing observations and weak signals in the target panel. We show that our estimator is more efficient and can consistently estimate weak factors, which are not identifiable with conventional methods. We provide the asymptotic inferential theory for target-PCA under very general assumptions on the approximate factor model and missing patterns. In an empirical study of imputing data in a mixed-frequency macroeconomic panel, we demonstrate that target-PCA significantly outperforms all benchmark methods.
       date: May 29, 2023
     - speaker:  Theis I. Jensen (Copenhagen Business School)
+      title: Machine Learning and the Implementable Efficient Frontier
       date: June 5, 2023
+      abstract: We propose that investment strategies should be evaluated based on their net-of-trading-cost return for each level of risk, which we term the "implementable efficient frontier." While numerous studies use machine learning return forecasts to generate portfolios, their agnosticism toward trading costs leads to excessive reliance on fleeting small-scale characteristics, resulting in poor net returns. We develop a framework that produces a superior frontier by integrating trading-cost-aware portfolio optimization with machine learning. The superior net-of-cost performance is achieved by learning directly about portfolio weights using an economic objective. Further, our model gives rise to a new measure of "economic feature importance".
     - speaker: Kangying Zhou (Yale University)
       date: June 12, 2023
       title: The virtue of complexity in return prediction
