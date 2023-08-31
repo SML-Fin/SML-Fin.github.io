@@ -1,45 +1,54 @@
-- type: Talks (2022-2023)
+- type: Talks (2023-2024)
   members:
+    - speaker: Matteo Aquilina (BIS)
+      date: October 30, 2023
+      title: Ban, Contain or Regulate? Approaches to tackling risks from Crypto-Asset Activities
+      abstract: The recent high-profile failures of a number of crypto firms have reignited the debate on the appropriate policy response to address the risks in crypto. The “shadow financial” functions enabled by crypto markets share many of the vulnerabilities of traditional finance and risks are often exacerbated by specific features of crypto. Authorities may consider different, and not mutually exclusive, lines of action to tackle the risks in crypto. These include (i) bans, which could tackle specific aspects of the crypto ecosystem, (ii) containment so that the real economy is insulated from crypto risks, and (iii) the regulation of the crypto sector. The paper highlights the pros and cons of the different approaches and proposes a framework to choose when bans, containment and regulation are most appropriate. In any case, central banks and public authorities could also work to make traditional financial more attractive, thereby allowing responsible innovation to thrive.
+      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4325095
+    - speaker: Kiseop Lee (Purdue University)
+      date: November 13, 2023
+      title: TBD
+      abstract: TBD
+    
+- type: Past Talks&#58;
+  members:
+    - speaker: Kangying Zhou (Yale University)
+      date: June 12, 2023
+      title: The virtue of complexity in return prediction
+      abstract: The extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters exceeds the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning.
+    - speaker:  Theis I. Jensen (Copenhagen Business School)
+      title: Machine Learning and the Implementable Efficient Frontier
+      date: June 5, 2023
+      abstract: We propose that investment strategies should be evaluated based on their net-of-trading-cost return for each level of risk, which we term the "implementable efficient frontier." While numerous studies use machine learning return forecasts to generate portfolios, their agnosticism toward trading costs leads to excessive reliance on fleeting small-scale characteristics, resulting in poor net returns. We develop a framework that produces a superior frontier by integrating trading-cost-aware portfolio optimization with machine learning. The superior net-of-cost performance is achieved by learning directly about portfolio weights using an economic objective. Further, our model gives rise to a new measure of "economic feature importance".
+    - speaker:  Junting Duan (Stanford)
+      title: Target PCA&#58; Transfer Learning Large Dimensional Panel Data
+      abstract:  This paper develops a novel method to estimate a latent factor model for a large target panel with missing observations by optimally using the information from auxiliary panel data sets. We refer to our estimator as target-PCA. Transfer learning from auxiliary panel data allows us to deal with a large fraction of missing observations and weak signals in the target panel. We show that our estimator is more efficient and can consistently estimate weak factors, which are not identifiable with conventional methods. We provide the asymptotic inferential theory for target-PCA under very general assumptions on the approximate factor model and missing patterns. In an empirical study of imputing data in a mixed-frequency macroeconomic panel, we demonstrate that target-PCA significantly outperforms all benchmark methods.
+      date: May 29, 2023
+    - speaker:  Stefano Grassi (University of Rome Tor Vergata)
+      date: May 22, 2023
+      title: Modelling and Predicting Strategies for Crypto--Currencies
+      abstract: In this presentation we summarize different modelling and and predictive strategies for cryptocurrency. We begin with univariate models that features time-varying moments  up to the fourth. Then we extend the forecasting to multivariate model using time-varying Vector Autoregressive models. Finally, we introduce a new study that combines multivariate models and time-varying higher moments in portfolio allocation.
+    - speaker:  Kaizheng Wang (Columbia University)
+      date: May 15, 2023    
+      title: Variable Clustering via Distributionally Robust Nodewise Regression
+      abstract: We study a multi-factor block model for variable clustering and connect it to the regularized subspace clustering by formulating a distributionally robust version of the nodewise regression. To solve the latter problem, we derive a convex relaxation, provide guidance on selecting the size of the robust region, and hence the regularization weighting parameter, based on the data, and propose an ADMM algorithm for implementation. We validate our method in an extensive simulation study. Finally, we propose and apply a variant of our method to stock return data, obtain interpretable clusters that facilitate portfolio selection and compare its out-of-sample performance with other clustering methods in an empirical study. This talk is based on joint work with Xunyu Zhou and Xiao Xu.
+    - speaker: Edward Elson Kosasih (University of Cambridge)
+      date: May 8, 2023
+      title: A machine learning approach for predicting hidden links in supply chain with graph neural networks
+      abstract: Supply chain business interruption has been identified as a key risk factor in recent years, with high-impact disruptions due to disease outbreaks, logistic issues such as the recent Suez Canal blockage showing examples of how disruptions could propagate across complex emergent networks. Researchers have highlighted the importance of gaining visibility into procurement interdependencies between suppliers to develop more informed business contingency plans. However, extant methods such as supplier surveys rely on the willingness or ability of suppliers to share data and are not easily verifiable. In this article, we pose the supply chain visibility problem as a link prediction problem from the field of Machine Learning (ML) and propose the use of an automated method to detect potential links that are unknown to the buyer with Graph Neural Networks (GNN). Using a real automotive network as a test case, we show that our method performs better than existing algorithms. Additionally, we use Integrated Gradient to improve the explainability of our approach by highlighting input features that influence GNN’s decisions. We also discuss the advantages and limitations of using GNN for link prediction, outlining future research directions.
+    - speaker: Stephen Szaura (Norwegian Business School)
+      date: April 28 (Friday), 2023
+      title: Does News, Order Flow, or Illiquidity drive stock jumps? In the day or in the night?
+      abstract: The overnight material news events and sources of stock illiquidity can be potentially important sources of jumps in stock returns. We find that for the average firm in the cross-section, stock illiquidity is more likely to drive a stock return jump than either day or overnight news flow frequency and content, however, for larger firms there is a higher likelihood that the stock return jump is driven by overnight news flow frequency. Yet our results find a larger idiosyncratic jump size for a higher number of day news articles than stock illiquidity for the average and large firms. Our results show how day and overnight news flow, stock illiquidity, and order flow are reflected in stock return jumps and idiosyncratic jump risk.
+    - speaker:  Shixuan Wang (University of Reading) (in-person)
+      date: April 24, 2023
+      title: Time series momentum and reversal&#58; Intraday information from realized semivariance
+      abstract: The presence of time series momentum has been widely documented in financial markets across asset classes and countries. In this study, we find a predictable pattern of the realized semivariance estimators for the returns of commodity futures, particularly during the reversals of time series momentum. Based on this finding, we propose a rule-based time series momentum strategy that has a statistically significant higher Sharpe ratio compared to the benchmark of the original time series momentum strategy in the out-of-sample data. The results are robust to different subsamples, lookback windows, volatility scaling, execution lag, and transaction cost.
     - speaker: Ruixun Zhang (Peking University) (online)
       date: April 17, 2023
       title: Spectral Volume Models&#58; High-Frequency Periodicities in Intraday Trading Activities
       abstract: We develop spectral volume models to systematically estimate, explain, and exploit the high-frequency periodicity in intraday trading activities using Fourier analysis. The framework consistently recovers periodicities at specific frequencies in three steps, despite their low signal-to-noise ratios. This reveals important and universal high-frequency periodicities across 2,573 stocks in the United States (US) and Chinese markets over a full year. The dominant frequencies are at 10-seconds, 15-seconds, 20-seconds, 30-seconds, 1-minute, and 5-minutes for the US market and 1-minute, 2.5-minutes, 5-minutes, and 10-minutes for the Chinese market. They each explain from 1.5 to 10 percent of the variance of de-trended intraday volumes on average. Through three different perspectives, we provide statistically significant evidence that this phenomenon is driven by trading algorithms that rely on periodic information arrivals, rather than trading cost considerations. Finally, we demonstrate the practical value of uncovering these high-frequency periodicities in improving intraday volume predictions, which leads to potential economic gains in intraday execution strategies.
       link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4230610
-    - speaker:  Shixuan Wang (University of Reading) (in-person)
-      date: April 24, 2023
-      title: Time series momentum and reversal&#58; Intraday information from realized semivariance
-      abstract: The presence of time series momentum has been widely documented in financial markets across asset classes and countries. In this study, we find a predictable pattern of the realized semivariance estimators for the returns of commodity futures, particularly during the reversals of time series momentum. Based on this finding, we propose a rule-based time series momentum strategy that has a statistically significant higher Sharpe ratio compared to the benchmark of the original time series momentum strategy in the out-of-sample data. The results are robust to different subsamples, lookback windows, volatility scaling, execution lag, and transaction cost.
-    - speaker: Stephen Szaura (Norwegian Business School)
-      date: April 28 (Friday), 2023
-      title: Does News, Order Flow, or Illiquidity drive stock jumps? In the day or in the night?
-      abstract: The overnight material news events and sources of stock illiquidity can be potentially important sources of jumps in stock returns. We find that for the average firm in the cross-section, stock illiquidity is more likely to drive a stock return jump than either day or overnight news flow frequency and content, however, for larger firms there is a higher likelihood that the stock return jump is driven by overnight news flow frequency. Yet our results find a larger idiosyncratic jump size for a higher number of day news articles than stock illiquidity for the average and large firms. Our results show how day and overnight news flow, stock illiquidity, and order flow are reflected in stock return jumps and idiosyncratic jump risk.
-    - speaker: Edward Elson Kosasih (University of Cambridge)
-      date: May 8, 2023
-      title: A machine learning approach for predicting hidden links in supply chain with graph neural networks
-      abstract: Supply chain business interruption has been identified as a key risk factor in recent years, with high-impact disruptions due to disease outbreaks, logistic issues such as the recent Suez Canal blockage showing examples of how disruptions could propagate across complex emergent networks. Researchers have highlighted the importance of gaining visibility into procurement interdependencies between suppliers to develop more informed business contingency plans. However, extant methods such as supplier surveys rely on the willingness or ability of suppliers to share data and are not easily verifiable. In this article, we pose the supply chain visibility problem as a link prediction problem from the field of Machine Learning (ML) and propose the use of an automated method to detect potential links that are unknown to the buyer with Graph Neural Networks (GNN). Using a real automotive network as a test case, we show that our method performs better than existing algorithms. Additionally, we use Integrated Gradient to improve the explainability of our approach by highlighting input features that influence GNN’s decisions. We also discuss the advantages and limitations of using GNN for link prediction, outlining future research directions.
-    - speaker:  Kaizheng Wang (Columbia University)
-      date: May 15, 2023    
-      title: Variable Clustering via Distributionally Robust Nodewise Regression
-      abstract: We study a multi-factor block model for variable clustering and connect it to the regularized subspace clustering by formulating a distributionally robust version of the nodewise regression. To solve the latter problem, we derive a convex relaxation, provide guidance on selecting the size of the robust region, and hence the regularization weighting parameter, based on the data, and propose an ADMM algorithm for implementation. We validate our method in an extensive simulation study. Finally, we propose and apply a variant of our method to stock return data, obtain interpretable clusters that facilitate portfolio selection and compare its out-of-sample performance with other clustering methods in an empirical study. This talk is based on joint work with Xunyu Zhou and Xiao Xu.
-    - speaker:  Stefano Grassi (University of Rome Tor Vergata)
-      date: May 22, 2023
-      title: Modelling and Predicting Strategies for Crypto--Currencies
-      abstract: In this presentation we summarize different modelling and and predictive strategies for cryptocurrency. We begin with univariate models that features time-varying moments  up to the fourth. Then we extend the forecasting to multivariate model using time-varying Vector Autoregressive models. Finally, we introduce a new study that combines multivariate models and time-varying higher moments in portfolio allocation.
-    - speaker:  Junting Duan (Stanford)
-      title: Target PCA&#58; Transfer Learning Large Dimensional Panel Data
-      abstract:  This paper develops a novel method to estimate a latent factor model for a large target panel with missing observations by optimally using the information from auxiliary panel data sets. We refer to our estimator as target-PCA. Transfer learning from auxiliary panel data allows us to deal with a large fraction of missing observations and weak signals in the target panel. We show that our estimator is more efficient and can consistently estimate weak factors, which are not identifiable with conventional methods. We provide the asymptotic inferential theory for target-PCA under very general assumptions on the approximate factor model and missing patterns. In an empirical study of imputing data in a mixed-frequency macroeconomic panel, we demonstrate that target-PCA significantly outperforms all benchmark methods.
-      date: May 29, 2023
-    - speaker:  Theis I. Jensen (Copenhagen Business School)
-      title: Machine Learning and the Implementable Efficient Frontier
-      date: June 5, 2023
-      abstract: We propose that investment strategies should be evaluated based on their net-of-trading-cost return for each level of risk, which we term the "implementable efficient frontier." While numerous studies use machine learning return forecasts to generate portfolios, their agnosticism toward trading costs leads to excessive reliance on fleeting small-scale characteristics, resulting in poor net returns. We develop a framework that produces a superior frontier by integrating trading-cost-aware portfolio optimization with machine learning. The superior net-of-cost performance is achieved by learning directly about portfolio weights using an economic objective. Further, our model gives rise to a new measure of "economic feature importance".
-    - speaker: Kangying Zhou (Yale University)
-      date: June 12, 2023
-      title: The virtue of complexity in return prediction
-      abstract: The extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters exceeds the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning.
-       
-- type: Past Talks&#58;
-  members:
     - speaker: Dragos Gorduza (University of Oxford)  
       date: March 13, 2023  
       title: Understanding stock market instability via graph auto-encoders
