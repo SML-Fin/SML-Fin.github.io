@@ -1,5 +1,9 @@
 - type: Talks (2023-2024)
   members:
+    - speaker: Hao Ma (Queen Mary University of London)
+      date: October 23, 2023
+      title: TBD
+      abstract: TBD
     - speaker: Matteo Aquilina (BIS)
       date: October 30, 2023
       title: Ban, Contain or Regulate? Approaches to tackling risks from Crypto-Asset Activities
@@ -20,6 +24,10 @@
     - speaker: Galvin Feng (City University of Hong Kong)
       date: November 27, 2023
       title: TBD
+      abstract: TBD
+    - speaker: Igor Custodio João (Vrije Universiteit Amsterdam )
+      date: December 4, 2023
+      title: Testing for Clustering under Switching 
       abstract: TBD      
     
 - type: Past Talks&#58;
