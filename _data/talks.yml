@@ -2,8 +2,8 @@
   members:
     - speaker: Hao Ma (Queen Mary University of London) 
       date: October 23, 2023 (in-person)
-      title: TBD
-      abstract: TBD
+      title: Extracting Statistical Factors When Betas Are Time-Varying
+      abstract:  This paper deals with identification and inference on the unobservable conditional factor space and its dimension in large unbalanced panels of asset returns. The model specification is nonparametric regarding the time-variation of loadings as functions of lagged common shocks and individual characteristics. The number of active factors can also be time-varying as an effect of the changing macroeconomic environment. The method uses instrumental variables which have full-rank covariation with the factor betas in the cross-section, and allows for a high-dimensional vector generating the conditioning information. We use Double Machine Learning to show that average conditional canonical correlations between latent and observed factors, and similar parameters of interest, are asymptotically normal. We find that the conditional factor space extracted from the panel of monthly returns of individual stocks in the CRSP dataset is low-dimensional and overlaps only partly with the span of traditional sets of empirical factors.
     - speaker: Matteo Aquilina (Bank for International Settlements)
       date: October 30, 2023
       title: Ban, Contain or Regulate? Approaches to tackling risks from Crypto-Asset Activities
