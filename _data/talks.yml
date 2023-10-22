@@ -19,8 +19,8 @@
       abstract: TBD
     - speaker: Christian Conrad (University of Heidelberg)
       date: November 20, 2023 (in-person)
-      title: TBD
-      abstract: TBD
+      title: Macroeconomic Announcements and the Volatility Feedback Effect
+      abstract: We investigate to what extent the volatility feedback effect contributes to explaining the time-varying sensitivity of stock markets to macroeconomic announcements. By combining the standard Campbell-Shiller log-linear present value framework with a novel two-component volatility model for the conditional variance of cash flow news, we show that news to the long-term volatility component is an important driver of discount rate news. When long-term volatility is high, stock returns are more sensitive to news, and there is an asymmetry in the response to good and bad news. By investigating the instantaneous reaction of the S&P 500 to major U.S. macroeconomic announcements, we empirically confirm our model's predictions.
     - speaker: Gavin Feng (City University of Hong Kong)
       date: November 27, 2023
       title: TBD
