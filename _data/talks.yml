@@ -9,10 +9,10 @@
       title: Ban, Contain or Regulate? Approaches to tackling risks from Crypto-Asset Activities
       abstract: The recent high-profile failures of a number of crypto firms have reignited the debate on the appropriate policy response to address the risks in crypto. The “shadow financial” functions enabled by crypto markets share many of the vulnerabilities of traditional finance and risks are often exacerbated by specific features of crypto. Authorities may consider different, and not mutually exclusive, lines of action to tackle the risks in crypto. These include (i) bans, which could tackle specific aspects of the crypto ecosystem, (ii) containment so that the real economy is insulated from crypto risks, and (iii) the regulation of the crypto sector. The paper highlights the pros and cons of the different approaches and proposes a framework to choose when bans, containment and regulation are most appropriate. In any case, central banks and public authorities could also work to make traditional financial more attractive, thereby allowing responsible innovation to thrive.
       link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4325095
-    - speaker: Vincent Bogousslavsky (Boston University)
+    - speaker: Vincent Bogousslavsky (Boston College)
       date: November 6, 2023
-      title: TBD
-      abstract: TBD
+      title: A Century of Market Reversals: Resurrecting Volatility
+      abstract: Inventory models posit that return autocorrelation is affected by collateral, volume, and expected volatility. We show that daily market autocorrelations are lower on negative return days, consistent with collateral concerns. We use DJIA intraday return data going back to 1933 to obtain more precise volatility estimates and document, unlike previous literature, a strong role of volatility on market autocorrelation. Puzzlingly, anticipated volume, not volume shocks, drive reversals. Sparked by these findings, we construct a liquidity risk factor in accordance with Pastor-Stambaugh (2003) that is volatility, not volume, based. The volatility-based factor is more robust and has a higher risk premium than the volume-based factor.
     - speaker: Kiseop Lee (Purdue University)
       date: November 13, 2023
       title: TBD
