@@ -15,8 +15,8 @@
       abstract: Inventory models posit that return autocorrelation is affected by collateral, volume, and expected volatility. We show that daily market autocorrelations are lower on negative return days, consistent with collateral concerns. We use DJIA intraday return data going back to 1933 to obtain more precise volatility estimates and document, unlike previous literature, a strong role of volatility on market autocorrelation. Puzzlingly, anticipated volume, not volume shocks, drive reversals. Sparked by these findings, we construct a liquidity risk factor in accordance with Pastor-Stambaugh (2003) that is volatility, not volume, based. The volatility-based factor is more robust and has a higher risk premium than the volume-based factor.
     - speaker: Kiseop Lee (Purdue University)
       date: November 13, 2023
-      title: TBD
-      abstract: TBD
+      title: Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book
+      abstract: Managing high-frequency market data has been a challenging task in finance. A limit order book is a collection of orders that a trader intends to place, either to buy or sell at a certain price. Traditional approaches often fall short in forecasting future limit orders because of their high frequency and volume. In this study, we propose a modified attention algorithm to analyze the movement patterns in a limit order book. The enormous amount of data with millisecond time stamps are efficiently examined and processed using an attention module, which highlights important aspects of limit orders. We demonstrate that our modified attention algorithm improves the forecasting accuracy of limit orders. 
     - speaker: Christian Conrad (University of Heidelberg)
       date: November 20, 2023 (in-person)
       title: Macroeconomic Announcements and the Volatility Feedback Effect
