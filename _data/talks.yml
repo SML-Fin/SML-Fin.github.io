@@ -28,7 +28,7 @@
     - speaker: Igor Custodio João (Vrije Universiteit Amsterdam )
       date: December 4, 2023
       title: Testing for Clustering under Switching 
-      abstract: TBD      
+      abstract: I refine the test for clustering of Patton and Weller (2022) to allow for cluster switching. In a multivariate panel setting, clustering on time-averages produces consistent estimators of means and group assignments. Once switching is introduced, we lose the consistency. In fact, under switching the time-averaged k-means clustering converges to equal, indistinguishable means. This causes the test for a single cluster to lose power under the alternative of multiple clusters. Power can be regained by clustering the N times T observations independently and carefully subsampling the time dimension. When applied to the empirical setting of Bonhomme and Manresa (2015) of an autoregression of democracy in a panel of countries, we are able to detect clusters in the data under noisier conditions than the original test.      
     
 - type: Past Talks&#58;
   members:
