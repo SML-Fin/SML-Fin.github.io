@@ -1,5 +1,31 @@
 - type: Talks (2023-2024)
   members:
+    - speaker: Chuanping Sun (Bayes Business School) 
+      date: January 22, 2024 (in-person)
+      title: TBC
+    - speaker: Ruixun Zhang (Peking University)
+      date: January 29, 2024 (in-person)
+      title: TBC
+    - speaker: TBC
+      date: February 5, 2024
+      title: TBC
+    - speaker: Ekaterina Kazak (University of Manchester)
+      date: February 15, 2024
+      title: TBC
+    - speaker: TBC
+      date: February 19, 2024
+      title: TBC
+    - speaker: Stephen Szaura (BI Norwegian Business School)
+      date: February 26, 2024
+      title: TBC
+    - speaker: Bin Li (Wuhan University)
+      date: March 4, 2024
+      title: TBC
+    - speaker: TBC
+      date: March 11, 2024
+      title: TBC
+- type: Past Talks&#58;
+  members:
     - speaker: Hao Ma (Queen Mary University of London) 
       date: October 23, 2023 (in-person)
       title: Extracting Statistical Factors When Betas Are Time-Varying
@@ -30,8 +56,6 @@
       title: Testing for Clustering under Switching 
       abstract: I refine the test for clustering of Patton and Weller (2022) to allow for cluster switching. In a multivariate panel setting, clustering on time-averages produces consistent estimators of means and group assignments. Once switching is introduced, we lose the consistency. In fact, under switching the time-averaged k-means clustering converges to equal, indistinguishable means. This causes the test for a single cluster to lose power under the alternative of multiple clusters. Power can be regained by clustering the N times T observations independently and carefully subsampling the time dimension. When applied to the empirical setting of Bonhomme and Manresa (2015) of an autoregression of democracy in a panel of countries, we are able to detect clusters in the data under noisier conditions than the original test.      
     
-- type: Past Talks&#58;
-  members:
     - speaker: Kangying Zhou (Yale University)
       date: June 12, 2023
       title: The virtue of complexity in return prediction
