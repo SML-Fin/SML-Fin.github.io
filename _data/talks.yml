@@ -22,7 +22,8 @@
       abstract: We introduce a novel measure of weather risk implied from weather options' contracts. WIVOL captures risks of future temperature oscillations, increasing with climate uncertainty about physical events and regulatory policies. We find that shocks to weather volatility increase the likelihood of unexpected costs&#58; a one-standard deviation change in WIVOL increases quarterly operating costs by 2%, suggesting that firms, on average, do not fully hedge exposures to weather risks. We estimate returns' exposure to WIVOL innovations and show that more negatively exposed firms are valued at a discount, with investors demanding higher compensations to hold these stocks. Firms' exposure to local but not foreign WIVOL predicts returns, which confirms the geographic nature of weather risks shocks.
     - speaker: Bin Li (Wuhan University)
       date: March 4, 2024
-      title: TBC
+      title: Real-time Machine Learning for the Cross-Section of Stock Returns
+      abstract: Recent studies document strong performance for machine-learning-based investment strategies. These strategies use anomaly variables discovered ex-post as predictors of stock returns and may not be implementable in real time. We construct real-time machine learning strategies based on a universe of fundamental signals. While positive and significant, the out-of-sample performance of these strategies is significantly weaker than those documented by prior studies, especially in value-weighted portfolios. We find similar results when examining a universe of past return-based signals. Our results offer a more tempered view of the economic gains associated with machine learning strategies relative to prior literature.
     - speaker: Simon Trimborn (University of Amsterdam)
       date: March 11, 2024
       title: TBC
