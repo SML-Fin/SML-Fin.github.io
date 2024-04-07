@@ -1,37 +1,38 @@
 - type: Talks (Trinity 2024)
   members:
-    - speaker: 
+    - speaker: TBD
       date: April 22, 2024
-      title: 
-      abstract: 
-    - speaker: 
+      title: TBD
+      abstract: TBD
+    - speaker: TBD
       date: April 29, 2024
-      title: 
-      abstract: 
-    - speaker: 
+      title: TBD
+      abstract: TBD
+    - speaker: TBD
       date: May 6, 2024
-      title: 
-      abstract: 
-    - speaker: 
+      title: TBD
+      abstract: TBD
+    - speaker: TBD
       date: May 13, 2024
-      title: 
-      abstract: 
-    - speaker: 
+      title: TBD
+      abstract: TBD
+    - speaker: TBD
       date: May 20, 2024
-      title: 
-      abstract: 
-    - speaker: 
+      title: TBD
+      abstract: TBD
+    - speaker: TBD
       date: May 27, 2024
-      title: 
-      abstract: 
+      title: TBD
+      abstract: TBD 
     - speaker: Fenghui Yu (TU Delft)
       date: June 3, 2024
       title: Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows
       abstract: We delve into the computation of fill probabilities for limit orders positioned at various price levels within the limit order book, a critical aspect in execution optimization. We adopt a generic stochastic model to capture the dynamics of the order book as a series of queueing systems. This generic model is state-dependent and encompasses stylized factors. We subsequently derive semi-analytical expressions to compute the relevant probabilities within the context of state-dependent stochastic order flows. These probabilities cover various scenarios, including the probability of a change in the mid-price, the fill probabilities of orders posted at the best quotes, and those posted at a price level deeper in the book, before the opposite best quote moves. Lastly, we conduct extensive numerical experiments using real order book data from the foreign exchange spot market.
-    - speaker: Tom Zimmermann
+    - speaker: Tom Zimmermann (University of Cologne)
       date: June 10, 2024
-      title: TBC
-      abstract: TBC
+      title: TBD
+      abstract: TBD
+      
 - type: Past Talks&#58;
   members:
     - speaker: Chuanping Sun (Bayes Business School) 
