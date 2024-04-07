@@ -2,16 +2,28 @@
   members:
     - speaker: 
       date: April 22, 2024
+      title: 
+      abstract: 
     - speaker: 
       date: April 29, 2024
+      title: 
+      abstract: 
     - speaker: 
       date: May 6, 2024
+      title: 
+      abstract: 
     - speaker: 
       date: May 13, 2024
+      title: 
+      abstract: 
     - speaker: 
       date: May 20, 2024
+      title: 
+      abstract: 
     - speaker: 
       date: May 27, 2024
+      title: 
+      abstract: 
     - speaker: Fenghui Yu (TU Delft)
       date: June 3, 2024
       title: Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows
