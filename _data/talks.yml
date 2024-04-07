@@ -1,4 +1,27 @@
-- type: Talks (Hilary 2024)
+- type: Talks (Trinity 2024)
+  members:
+    - speaker: 
+      date: April 22, 2024
+    - speaker: 
+      date: April 29, 2024
+    - speaker: 
+      date: May 6, 2024
+    - speaker: 
+      date: May 13, 2024
+    - speaker: 
+      date: May 20, 2024
+    - speaker: 
+      date: May 27, 2024
+    - speaker: Fenghui Yu (TU Delft)
+      date: June 3, 2024
+      title: Fill Probabilities in a Limit Order Book with State-Dependent Stochastic Order Flows
+      abstract: We delve into the computation of fill probabilities for limit orders positioned at various price levels within the limit order book, a critical aspect in execution optimization. We adopt a generic stochastic model to capture the dynamics of the order book as a series of queueing systems. This generic model is state-dependent and encompasses stylized factors. We subsequently derive semi-analytical expressions to compute the relevant probabilities within the context of state-dependent stochastic order flows. These probabilities cover various scenarios, including the probability of a change in the mid-price, the fill probabilities of orders posted at the best quotes, and those posted at a price level deeper in the book, before the opposite best quote moves. Lastly, we conduct extensive numerical experiments using real order book data from the foreign exchange spot market.
+    - speaker: Tom Zimmermann
+      date: June 10, 2024
+      title: TBC
+      abstract: TBC
+
+- type: Past Talks&#58;
   members:
     - speaker: Chuanping Sun (Bayes Business School) 
       date: January 22, 2024 (in-person)
@@ -28,8 +51,6 @@
       date: March 11, 2024
       title: Influential assets in Large-Scale Vector AutoRegressive Models
       abstract: When a company releases earnings results or makes announcements, a sectoral wide lead-lag effect from the stock on the entire system may occur. To improve the estimation of a system experiencing system-wide lead-lag effects from a single asset in the presence of short time series, we introduce a model for Large-scale Influencer Structures in Vector AutoRegressions (LISAR). We study the asymptotic properties of the estimator and validate its performance in extensive synthetic data experiments. We study the performance of the LISAR model on high-frequency data for the constituents of the SP100, separated by sectors. We find the LISAR model to significantly outperform on up to 14.7% of the days in terms of forecasting accuracy. Trading strategies with signals derived from the LISAR model achieved up to 60% excess return compared to other strategies. We show in this study, that in the presence of influencer structures within a sector, the LISAR model, compared to alternative models, provides higher accuracy, better forecasting results, and improves the understanding of market movements and sectoral structures.
-- type: Past Talks&#58;
-  members:
     - speaker: Hao Ma (Queen Mary University of London) 
       date: October 23, 2023 (in-person)
       title: Extracting Statistical Factors When Betas Are Time-Varying
