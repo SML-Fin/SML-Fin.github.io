@@ -1,14 +1,14 @@
 - type: Talks (Trinity 2024)
   members:
-    - speaker: TBD
+    - speaker: Antonio Briola (UCL)
       date: April 29, 2024
-      title: TBD
-      abstract: TBD
+      title: Deep Limit Order Book Forecasting
+      abstract: We exploit cutting-edge deep learning methodologies to explore the predictability of high-frequency Limit Order Book mid-price changes for a heterogeneous set of stocks traded on the NASDAQ exchange. In so doing, we release `LOBFrame', an open-source code base to efficiently process large-scale Limit Order Book data and quantitatively assess state-of-the-art deep learning models' forecasting capabilities. Our results are twofold. We demonstrate that the stocks' microstructural characteristics influence the efficacy of deep learning methods and that their high forecasting power does not necessarily correspond to actionable trading signals. We argue that traditional machine learning metrics fail to adequately assess the quality of forecasts in the Limit Order Book context. As an alternative, we propose an innovative operational framework that evaluates predictions' practicality by focusing on the probability of accurately forecasting complete transactions. This work offers academics and practitioners an avenue to make informed and robust decisions on the application of deep learning techniques, their scope and limitations, effectively exploiting emergent statistical properties of the Limit Order Book.
     - speaker: TBD
       date: May 6, 2024
       title: TBD
       abstract: TBD
-    - speaker: TBD
+    - speaker: Yuan Liao (Rutgers)
       date: May 13, 2024
       title: TBD
       abstract: TBD
@@ -26,8 +26,8 @@
       abstract: We delve into the computation of fill probabilities for limit orders positioned at various price levels within the limit order book, a critical aspect in execution optimization. We adopt a generic stochastic model to capture the dynamics of the order book as a series of queueing systems. This generic model is state-dependent and encompasses stylized factors. We subsequently derive semi-analytical expressions to compute the relevant probabilities within the context of state-dependent stochastic order flows. These probabilities cover various scenarios, including the probability of a change in the mid-price, the fill probabilities of orders posted at the best quotes, and those posted at a price level deeper in the book, before the opposite best quote moves. Lastly, we conduct extensive numerical experiments using real order book data from the foreign exchange spot market.
     - speaker: Tom Zimmermann (University of Cologne)
       date: June 10, 2024
-      title: TBD
-      abstract: TBD
+      title: Deep Parametric Portfolio Policies 
+      abstract: We generalize the parametric portfolio policy framework to portfolio weight functions of any complexity by using deep neural networks. More complex network-based portfolio policies increase investor utility and achieve between 75 and 276 basis points higher monthly certainty equivalent returns than a comparable linear portfolio policy. Risk aversion serves an important function as an economically motivated model regularization parameter, with higher risk aversion leaning against model complexity. Overall, our findings demonstrate that, looking beyond expected returns, network-based policies better capture the non-linear relationship between investor utility and firm characteristics but the benefits of using complex models vary with investor preferences. Results hold after considering realistic portfolio settings with short sale or weight restrictions and returns after transaction costs.
       
 - type: Past Talks&#58;
   members:
