@@ -28,6 +28,10 @@
       date: June 10, 2024
       title: Deep Parametric Portfolio Policies 
       abstract: We generalize the parametric portfolio policy framework to portfolio weight functions of any complexity by using deep neural networks. More complex network-based portfolio policies increase investor utility and achieve between 75 and 276 basis points higher monthly certainty equivalent returns than a comparable linear portfolio policy. Risk aversion serves an important function as an economically motivated model regularization parameter, with higher risk aversion leaning against model complexity. Overall, our findings demonstrate that, looking beyond expected returns, network-based policies better capture the non-linear relationship between investor utility and firm characteristics but the benefits of using complex models vary with investor preferences. Results hold after considering realistic portfolio settings with short sale or weight restrictions and returns after transaction costs.
+    - speaker: TBD
+      date: June 17, 2024
+      title:
+      abstract:
       
 - type: Past Talks&#58;
   members:
