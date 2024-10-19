@@ -17,8 +17,8 @@
   members:
     - speaker: Jingda Yan (Renmin University of China)
       date: June 17, 2024
-      title: TBD
-      abstract: TBD
+      title: Overreaction to Volatility Shock and Option Returns
+      abstract: I investigate how investors react to volatility shock in stock options market. In sharp contrast to the underreaction in the aggregate, investors overreact to less persistent idiosyncratic volatility shock in stock options market. Straddles written on stocks with large increases in volatility innovations underperform those with large decreases in volatility innovations by 5.30% per month. Consistent with the overreaction interpretation, higher idiosyncratic volatility shocks predict higher realized variance risk premiums. Moreover, the return predictability result is stronger for straddles written on stocks with earnings announcement during the holding period or dominated by unsophisticated investors. In response to this overreaction induced demand pressure, market makers charge higher premiums and bid-ask spreads as compensations for the increased market making risk. I also rule out the hedging alternative.
     - speaker: Tom Zimmermann (University of Cologne)
       date: June 10, 2024
       title: Deep Parametric Portfolio Policies 
