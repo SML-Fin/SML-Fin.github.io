@@ -8,7 +8,11 @@
       date: October 28, 2024 (Monday, in-person)
       title: BUMVU Estimators
       abstract: We provide necessary and sufficient conditions for an (Unbiased) Block estimator to have Uniformly Minimum Variance. Our theory parallels the theory of UMVU estimation, the main novel insight being the focus on the covariance among blocks. We use this theory to derive lower variance bounds for block estimators of functionals of high-frequency volatility when the block size is fixed. We further show the relevance of the new theory for the classical problem of estimation of homoskedastic nonparametric regressions with varying mean. Finally, we introduce a new test for the presence of drift in financial data which exploits the precision of BUMVU estimators. The test shows abundant presence of drift in financial data.
-
+    - speaker: Bo Zhou (Virginia Tech)
+      date: TBD
+      title: TBD
+      abstract: TBD
+      
 - type: Previous Talks
   members:
     - speaker: Jingda Yan (Renmin University of China)
