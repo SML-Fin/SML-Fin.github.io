@@ -1,15 +1,15 @@
 - type: Talks (Michaelmas 2024)
   members:
     - speaker: Shifan Yu (University of Oxford)
-      date: October 22, 2024 (in-person)
+      date: October 22, 2024 (Tuesday, in-person)
       title: Realized Candlestick Wicks
       abstract: We develop a novel nonparametric estimator of integrated variance that utilizes intraday candlestick information, comprised of the high, low, open, and close prices within short time intervals. The proposed estimator is robust to short-lived extreme return persistence hardly attributable to the diffusion component, such as gradual jumps and flash crashes. By modelling such sharp but continuous price movements following some recent theoretical advances, we demonstrate that our new estimator can provide consistent estimates with variances about four times smaller than those obtained with the differenced-return volatility (DV) estimator. Monte Carlo simulations and empirical applications further validate the practical reliability of our proposed estimator with some finite-sample refinements.
     - speaker: Aleksey Kolokolov (University of Manchester)
-      date: October 28, 2024 (in-person)
+      date: October 28, 2024 (Monday, in-person)
       title: BUMVU Estimators
       abstract: We provide necessary and sufficient conditions for an (Unbiased) Block estimator to have Uniformly Minimum Variance. Our theory parallels the theory of UMVU estimation, the main novel insight being the focus on the covariance among blocks. We use this theory to derive lower variance bounds for block estimators of functionals of high-frequency volatility when the block size is fixed. We further show the relevance of the new theory for the classical problem of estimation of homoskedastic nonparametric regressions with varying mean. Finally, we introduce a new test for the presence of drift in financial data which exploits the precision of BUMVU estimators. The test shows abundant presence of drift in financial data.
 
-- type: Past Talks
+- type: Previous Talks
   members:
     - speaker: Jingda Yan (Renmin University of China)
       date: June 17, 2024
