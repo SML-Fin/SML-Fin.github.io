@@ -8,9 +8,9 @@ Thursday 3-4pm (GMT) (unless otherwise specified)
 
 Participants can join our [mailing list](mailto:smlfin-subscribe@maillist.ox.ac.uk?subject=Subscribe) to receive notifcations about the seminar series. 
 
-Organizers plan events in a hybrid format allowing participants on-site at the [Oxford Statistics Department](https://www.stats.ox.ac.uk/) to connect with participants off-site through Zoom. 
+Organizers plan events in a hybrid format allowing participants on-site at the [Oxford-Man Institute of Quantitative Finance](https://oxford-man.ox.ac.uk/) to connect with participants off-site through Zoom. 
 
-The seminar series covers a wide range of topics at the intersection of machine learning and finance. Topics include network analysis, limit order books and analysis of order flows, time series forecasting, synthetic data generation, asset pricing, microstructure, news sentiment, portfolio management, high-dimensional statistics and model selection. 
+The seminar series covers a wide range of topics at the intersection of machine learning and finance. Topics include network analysis, limit order books and analysis of order flows, time series forecasting, synthetic data generation, asset pricing, financial econometrics, microstructure, news sentiment, portfolio management, high-frequency and high-dimensional statistics. 
 
 Please explore [projects](https://www.stats.ox.ac.uk/~cucuring/fin.htm) from our research group. 
 
