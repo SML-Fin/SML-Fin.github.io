@@ -12,8 +12,6 @@ Organizers plan events in a hybrid format allowing participants on-site at the [
 
 The seminar series covers a wide range of topics at the intersection of statistics, machine learning and finance. Topics include network analysis, limit order books and analysis of order flows, time series forecasting, synthetic data generation, asset pricing, financial econometrics, market microstructure, news sentiment, portfolio management, high-frequency and high-dimensional statistics. 
 
-Please explore [projects](https://www.stats.ox.ac.uk/~cucuring/fin.htm) from our research group. 
-
 {% for category in site.data.talks %}
 # {{ category.type }}
 <div class="talk-list">
