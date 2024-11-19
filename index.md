@@ -6,7 +6,7 @@ meta-description: "Seminar Series and Reading Group"
 # Seminar Series 
 Thursday 3-4pm (GMT) (unless otherwise specified)
 
-Participants can join our [mailing list](mailto:smlfin-subscribe@maillist.ox.ac.uk?subject=Subscribe) to receive notifcations about the seminar series. 
+Participants can join our [mailing list](mailto:smlfin-subscribe@maillist.ox.ac.uk?subject=Subscribe) to receive notifications about the seminar series. 
 
 Organizers plan events in a hybrid format allowing participants on-site at the [Oxford-Man Institute of Quantitative Finance](https://oxford-man.ox.ac.uk/) to connect with participants off-site through Zoom. 
 
