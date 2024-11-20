@@ -5,7 +5,7 @@
       title: Real-Time Detection of Local No-Arbitrage Violations
       abstract: This paper focuses on the task of detecting local episodes involving violation of the standard Itô semimartingale assumption for financial asset prices in real time that might induce arbitrage opportunities. Our proposed detectors, defined as stopping rules, are applied sequentially to continually incoming high-frequency data. We show that they are asymptotically exponentially distributed in the absence of Itô semimartingale violations. On the other hand, when a violation occurs, we can achieve immediate detection under infill asymptotics. A Monte Carlo study demonstrates that the asymptotic results provide a good approximation to the finite-sample behavior of the sequential detectors. An empirical application to S&P 500 index futures data corroborates the effectiveness of our detectors in swiftly identifying the emergence of an extreme return persistence episode in real time. 
     - speaker: Sean Cao (University of Maryland)
-      date: TBD
+      date: November 21, 2024 (in-person)
       title: Title TBD
       abstract: TBD
     - speaker: Shikun (Barry) Ke (Yale University)
