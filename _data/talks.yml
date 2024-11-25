@@ -1,8 +1,5 @@
 - type: Talks (Michaelmas 2024)
   members:
-    - speaker: Sean Cao (University of Maryland)
-      date: November 25, 2024 (in-person)
-      title: Applied AI for FinTech and Business
     - speaker: Shikun (Barry) Ke (Yale University)
       date: December 12, 2024
       title: Title TBD
@@ -14,10 +11,6 @@
 
 - type: Talks (Hilary 2025)
   members:
-    - speaker: Felix Drinkall (University of Oxford)
-      date: January 23, 2025 (in-person)
-      title: Re(Visiting) Large Language Models in Finance
-      abstract: This study introduces a novel suite of historical large language models (LLMs) pre-trained specifically for accounting and finance, utilising a diverse set of major textual resources. The models are unique in that they are year-specific, spanning from 2007 to 2023, effectively eliminating look-ahead bias, a limitation present in other LLMs. Empirical analysis reveals that, in trading, these specialised models outperform much larger models, including the state-of-the-art LLaMA 1, 2, and 3, which are approximately 50 times their size. The findings are further validated through a range of robustness checks, confirming the superior performance of these LLMs.
     - speaker: Carsten Chong (HKUST)
       date: February 13, 2025
       title: Title TBD
@@ -34,6 +27,10 @@
       date: March 6, 2025
       title: Title TBD
       abstract: TBD
+    - speaker: Felix Drinkall (University of Oxford)
+      date: TBD (in-person)
+      title: Re(Visiting) Large Language Models in Finance
+      abstract: This study introduces a novel suite of historical large language models (LLMs) pre-trained specifically for accounting and finance, utilising a diverse set of major textual resources. The models are unique in that they are year-specific, spanning from 2007 to 2023, effectively eliminating look-ahead bias, a limitation present in other LLMs. Empirical analysis reveals that, in trading, these specialised models outperform much larger models, including the state-of-the-art LLaMA 1, 2, and 3, which are approximately 50 times their size. The findings are further validated through a range of robustness checks, confirming the superior performance of these LLMs.
     - speaker: Yasin Simsek (Duke University)
       date: TBD
       title: Title TBD
@@ -45,6 +42,9 @@
       
 - type: Previous Talks
   members:
+    - speaker: Sean Cao (University of Maryland)
+      date: November 25, 2024 (in-person)
+      title: Applied AI for FinTech and Business
     - speaker: Bo Zhou (Virginia Tech)
       date: November 21, 2024
       title: Real-Time Detection of Local No-Arbitrage Violations
