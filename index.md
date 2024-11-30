@@ -53,6 +53,6 @@ The seminar series covers a wide range of topics at the intersection of statisti
 
 # About The Seminar
 
-**Organizers:** [Álvaro Cartea](https://sites.google.com/site/alvarocartea/home) [Leandro Sánchez-Betancourt](https://leandro-sbetancourt.github.io) [Mihai Cucuringu](https://www.stats.ox.ac.uk/~cucuring/), [Shifan Yu](https://www.shifanyu.com/)
+**Organizers:** [Álvaro Cartea](https://sites.google.com/site/alvarocartea/home), [Leandro Sánchez-Betancourt](https://leandro-sbetancourt.github.io), [Mihai Cucuringu](https://www.stats.ox.ac.uk/~cucuring/), [Shifan Yu](https://www.shifanyu.com/)
 
 **Acknowledgements:**  Website template from the [Stanford MLSys Seminar Series](https://mlsys.stanford.edu)
