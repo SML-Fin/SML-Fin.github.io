@@ -11,11 +11,7 @@
     - speaker: Kenan Wood (Davidson College)
       date: December 17, 2024
       title: Expiring Assets in Automated Market Makers
-      abstract: An automated market maker (AMM) is a system that enables parties to trade electronic assets based on a fixed mathematical formula. AMMs are usually implemented as smart contracts on blockchains. Traditional AMMs rely on arbitrage to keep prices aligned with the market price. If the AMM's price is too high or too low compared to the market, arbitrageurs will buy the undervalued asset from the AMM and sell it on the market until the prices align.
-
-However, traditional AMMs are not well-suited for trading assets with expiration dates, such as theater tickets, airline tickets, or certain options. As the expiration time approaches, arbitrage-based price adjustments may fail for various reasons.
-
-In this presentation, we propose a design for a decentralized exchange (DEX) specifically for trading expiring assets. This design integrates features of AMMs and limit-order books. The proposed DEX ensures that trades are completed on time and that no asset remains unsold if there is a buyer willing to pay an acceptable price.
+      abstract: An automated market maker (AMM) is a system that enables parties to trade electronic assets based on a fixed mathematical formula. AMMs are usually implemented as smart contracts on blockchains. Traditional AMMs rely on arbitrage to keep prices aligned with the market price. If the AMM's price is too high or too low compared to the market, arbitrageurs will buy the undervalued asset from the AMM and sell it on the market until the prices align. However, traditional AMMs are not well-suited for trading assets with expiration dates, such as theater tickets, airline tickets, or certain options. As the expiration time approaches, arbitrage-based price adjustments may fail for various reasons. In this presentation, we propose a design for a decentralized exchange (DEX) specifically for trading expiring assets. This design integrates features of AMMs and limit-order books. The proposed DEX ensures that trades are completed on time and that no asset remains unsold if there is a buyer willing to pay an acceptable price.
 
 - type: Talks (Hilary 2025)
   members:
