@@ -2,8 +2,8 @@
   members:
     - speaker: Alejandro Lopez Lira (University of Florida)
       date: February 7, 2025 (Friday)
-      title: Title TBD
-      abstract: TBD
+      title: Can Large Language Models Trade? AI Agents Competing in Stock Markets
+      abstract: We develop a synthetic stock market where Large Language Models (LLMs) act as competing trading agents, allowing us to study the effects of AI on financial markets. \\ The framework enables the creation of diverse market participants—from prompt-engineered LLMs acting as value investors, momentum traders, and market makers to custom algorithmic strategies—for systematic study of market dynamics. Our analysis reveals three key findings: First, LLM agents demonstrate consistent strategy alignment with their trading directives, reliably translating prompts into intended behaviors. These agents also show sophisticated trading mechanics, successfully managing order types, price limits, and position adjustments in response to market conditions. Second, these agents successfully perform core market functions, as demonstrated through systematic evaluation of price discovery (responding to fundamental values and market signals) and liquidity provision (strategic limit order placement and active market making).
     - speaker: Carsten Chong (HKUST)
       date: February 13, 2025
       title: Title TBD
