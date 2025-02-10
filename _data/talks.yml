@@ -20,10 +20,7 @@
       date: March 6, 2025
       title: Title TBD
       abstract: TBD
-    - speaker: Dobrislav Dobrev (Federal Reserve Board)
-      date: TBD
-      title: Title TBD
-      abstract: TBD
+    
     
 - type: Talks (Trinity 2025)
   members:
@@ -34,7 +31,11 @@
     - speaker: Yasin Simsek (Duke University)
       date: May 8, 2025
       title: Title TBD
-      abstract: TBD   
+      abstract: TBD
+    - speaker: Dobrislav Dobrev (Federal Reserve Board)
+      date: May 15, 2025
+      title: Title TBD
+      abstract: TBD
       
 - type: Previous Talks
   members:
