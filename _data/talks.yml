@@ -23,7 +23,7 @@
     - speaker: Matthijs Lof (Aalto University)
       date: March 13, 2025
       title: Assessing Market Beta Estimates
-      abstract: TBD
+      abstract: We introduce a method to benchmark market beta estimates against unobserved true betas. From the covariance between estimated betas and returns, we derive our measure γ, which is proportional to the correlation between estimated and true beta. Crucially, our method requires only minimal assumptions about the true asset pricing model, specifically does not require true betas to be priced, and can be applied to any beta estimate regardless of the estimation methodology. In addition, we do not need to choose a realized beta as a benchmark. We apply our method empirically to the cross section of US stocks and find that model averaging works&#58; the simple average of twelve regression-based beta estimates has a significantly higher correlation with true beta than any of the individual estimates.
     
     
 - type: Talks (Trinity 2025)
