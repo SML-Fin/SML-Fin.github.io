@@ -29,7 +29,7 @@
 - type: Talks (Trinity 2025)
   members:
     - speaker: Felix Drinkall (University of Oxford)
-      date: May 1, 2025 (in-person)
+      date: May 1, 2025
       title: Re(Visiting) Large Language Models in Finance
       abstract: This study introduces a novel suite of historical large language models (LLMs) pre-trained specifically for accounting and finance, utilising a diverse set of major textual resources. The models are unique in that they are year-specific, spanning from 2007 to 2023, effectively eliminating look-ahead bias, a limitation present in other LLMs. Empirical analysis reveals that, in trading, these specialised models outperform much larger models, including the state-of-the-art LLaMA 1, 2, and 3, which are approximately 50 times their size. The findings are further validated through a range of robustness checks, confirming the superior performance of these LLMs.
     - speaker: Yasin Simsek (Duke University)
@@ -48,6 +48,11 @@
       date: May 29, 2025
       title: Title TBD
       abstract: TBD
+    - speaker: Machine Learning in Quantitative Finance Conference 2025
+      date: May 5 - 6, 2025
+      title: Website
+      link: https://oxford-man.ox.ac.uk/event/machine-learning-in-quantitative-finance-conference-2025/
+      
       
 - type: Previous Talks
   members:
