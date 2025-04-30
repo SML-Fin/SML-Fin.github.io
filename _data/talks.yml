@@ -1,7 +1,7 @@
 - type: Talks (Trinity 2025)
   members:
     - speaker: Felix Drinkall (University of Oxford)
-      date: TBD
+      date: May 1, 2025
       title: Re(Visiting) Large Language Models in Finance
       abstract: This study evaluates the effectiveness of specialised large language models (LLMs) developed for accounting and finance. Empirical analysis demonstrates that these domain-specific models, despite being nearly 50 times smaller, consistently outperform state-of-the-art general-purpose LLMs in return prediction. By pre-training the models on year-specific financial datasets from 2007 to 2023, the study also mitigates look-ahead bias, a common limitation of general-purpose LLMs. The findings highlight the critical importance of addressing look-ahead bias to ensure reliable results. Extensive robustness checks further validate the superior performance of these models.
     - speaker: Yasin Simsek (Duke University)
