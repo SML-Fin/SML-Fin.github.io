@@ -14,8 +14,8 @@
       abstract: TBD
     - speaker: Wenhao Cui (Beihang University)
       date: May 22, 2025
-      title: Title TBD
-      abstract: TBD
+      title: Inference on Volatility Using First Exit Time
+      abstract: We establish a valid uniform inference theory for the spot variance process based on the first exit time. By leveraging the concept of the first exit time, the proposed method achieves substantial efficiency gains by incorporating additional information from the observation times. Furthermore, the developed inference procedure is valid for both fixed-k and large-k scenarios across the entire spot variance process. The proposed uniform inferential theory can also accommodate the presence of discretization errors and market microstructure noise, significantly enhancing the empirical applicability of the method. An empirically calibrated simulation study demonstrates the practical reliability of our methods in the presence of pricing errors. Through the simulation, we find that our method delivers confidence bands with satisfactory coverage frequency while also exhibiting narrower widths. Additionally, an empirical application using high-frequency data illustrates the efficiency gains achieved by employing our approach.
     - speaker: Linqi Wang (University of Cambridge)
       date: May 29, 2025
       title: Title TBD
