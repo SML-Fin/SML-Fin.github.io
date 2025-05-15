@@ -16,10 +16,10 @@
       date: May 22, 2025
       title: Inference on Volatility Using First Exit Time
       abstract: We establish a valid uniform inference theory for the spot variance process based on the first exit time. By leveraging the concept of the first exit time, the proposed method achieves substantial efficiency gains by incorporating additional information from the observation times. Furthermore, the developed inference procedure is valid for both fixed-k and large-k scenarios across the entire spot variance process. The proposed uniform inferential theory can also accommodate the presence of discretization errors and market microstructure noise, significantly enhancing the empirical applicability of the method. An empirically calibrated simulation study demonstrates the practical reliability of our methods in the presence of pricing errors. Through the simulation, we find that our method delivers confidence bands with satisfactory coverage frequency while also exhibiting narrower widths. Additionally, an empirical application using high-frequency data illustrates the efficiency gains achieved by employing our approach.
-    - speaker: Linqi Wang (University of Cambridge)
+    - speaker: Linqi Wang (Queen Mary University of London and University of Cambridge)
       date: May 29, 2025
-      title: Title TBD
-      abstract: TBD
+      title: The Permanent and Temporary Effects of Stock Splits on Liquidity in a Dynamic Semiparametric Model
+      abstract: We develop a dynamic framework to detect the occurrence of permanent and transitory breaks in the illiquidity process. We propose various tests that can be applied separately to individual events and can be aggregated across different events over time for a given firm or across different firms. We use this methodology to study the impact of forward and reverse stock splits on the illiquidity dynamics of the S&P 500, S&P 400 and S&P 600 index stock constituents. Our empirical results show that stock splits have a positive and significant effect on the permanent component of the illiquidity process while a majority of the stocks engaging in reverse splits experience an improvement in liquidity conditions.
     - speaker: Machine Learning in Quantitative Finance Conference 2025
       date: June 5 - 6, 2025
       title: Website
