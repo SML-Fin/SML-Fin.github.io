@@ -26,8 +26,8 @@
       link: https://oxford-man.ox.ac.uk/event/machine-learning-in-quantitative-finance-conference-2025/
     - speaker: Gustavo Freire (Erasmus University Rotterdam)
       date: June 19, 2025
-      title: Title TBD
-      abstract: TBD
+      title: 0DTE Asset Pricing
+      abstract: We document asset pricing implications of the new zero days-to-expiration (0DTE) options, which today account for half of the total S&P 500 option volume. We show that: (i) most of the intra-day equity premium is attributable to market returns between -5% and 0%; (ii) investors demand a high compensation to bear variance risk over the day, which is mainly due to compensation for upside risk; (iii) the variance risk premium predicts intra-day market returns, with a negative relation that is driven by the upside risk premium; and (iv) 0DTE options violate stochastic dominance restrictions, where exploiting this relative mispricing is highly profitable. Our findings contrast with evidence from longer horizons and are consistent with a nonmonotonic pricing kernel that is especially high for positive market returns.
       
       
 - type: Previous Talks
